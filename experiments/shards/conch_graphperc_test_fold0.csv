@@ -1,0 +1,2 @@
+timestamp,config_id,fold,slide_auc,slide_log_loss,patient_auc,patient_log_loss,patient_acc,n_seeds,emb_dim,num_gnn_layers,gmt_k,gmt_heads,gmt_encoder_blocks,patient_agg,include_nontumor,lr,early_stop_metric,notes
+2026-10-19T13:55:41.357329,conch_graphperc_test,0,0.6241830065359477,0.6862518321981139,0.59375,0.731768023425691,0.5,1,256,3,128,4,2,max,False,0.0002,patient_logloss,

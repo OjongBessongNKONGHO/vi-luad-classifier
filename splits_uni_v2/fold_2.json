@@ -1,0 +1,2549 @@
+{
+  "train": [
+    {
+      "pid": "100147",
+      "filename": "NLSI0000526.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000526.h5"
+    },
+    {
+      "pid": "100381",
+      "filename": "11361.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11361.h5"
+    },
+    {
+      "pid": "102537",
+      "filename": "10499.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10499.h5"
+    },
+    {
+      "pid": "102537",
+      "filename": "10500.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10500.h5"
+    },
+    {
+      "pid": "103359",
+      "filename": "NLSI0000293.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000293.h5"
+    },
+    {
+      "pid": "103359",
+      "filename": "NLSI0000294.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000294.h5"
+    },
+    {
+      "pid": "105051",
+      "filename": "9757.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9757.h5"
+    },
+    {
+      "pid": "105051",
+      "filename": "9756.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9756.h5"
+    },
+    {
+      "pid": "105602",
+      "filename": "11413.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11413.h5"
+    },
+    {
+      "pid": "105677",
+      "filename": "NLSI0000045.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000045.h5"
+    },
+    {
+      "pid": "105677",
+      "filename": "NLSI0000046.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000046.h5"
+    },
+    {
+      "pid": "108906",
+      "filename": "10904.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10904.h5"
+    },
+    {
+      "pid": "108906",
+      "filename": "10905.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10905.h5"
+    },
+    {
+      "pid": "108906",
+      "filename": "10939.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10939.h5"
+    },
+    {
+      "pid": "110196",
+      "filename": "11429.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11429.h5"
+    },
+    {
+      "pid": "110196",
+      "filename": "11430.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11430.h5"
+    },
+    {
+      "pid": "110987",
+      "filename": "NLSI0000029.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000029.h5"
+    },
+    {
+      "pid": "110987",
+      "filename": "NLSI0000030.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000030.h5"
+    },
+    {
+      "pid": "111835",
+      "filename": "9469.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9469.h5"
+    },
+    {
+      "pid": "111835",
+      "filename": "9468.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9468.h5"
+    },
+    {
+      "pid": "112052",
+      "filename": "NLSI0000025.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000025.h5"
+    },
+    {
+      "pid": "112052",
+      "filename": "NLSI0000026.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000026.h5"
+    },
+    {
+      "pid": "112414",
+      "filename": "NLSI0000269.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000269.h5"
+    },
+    {
+      "pid": "112414",
+      "filename": "NLSI0000270.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000270.h5"
+    },
+    {
+      "pid": "112802",
+      "filename": "NLSI0000068.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000068.h5"
+    },
+    {
+      "pid": "112802",
+      "filename": "NLSI0000069.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000069.h5"
+    },
+    {
+      "pid": "112802",
+      "filename": "NLSI0000070.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000070.h5"
+    },
+    {
+      "pid": "113041",
+      "filename": "11215.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11215.h5"
+    },
+    {
+      "pid": "113041",
+      "filename": "11217.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11217.h5"
+    },
+    {
+      "pid": "113041",
+      "filename": "11218.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11218.h5"
+    },
+    {
+      "pid": "114103",
+      "filename": "11368.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11368.h5"
+    },
+    {
+      "pid": "115110",
+      "filename": "11104.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11104.h5"
+    },
+    {
+      "pid": "121004",
+      "filename": "NLSI0000125.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000125.h5"
+    },
+    {
+      "pid": "121004",
+      "filename": "NLSI0000126.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000126.h5"
+    },
+    {
+      "pid": "121004",
+      "filename": "NLSI0000127.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000127.h5"
+    },
+    {
+      "pid": "123066",
+      "filename": "10872.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10872.h5"
+    },
+    {
+      "pid": "123066",
+      "filename": "10874.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10874.h5"
+    },
+    {
+      "pid": "124864",
+      "filename": "11351.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11351.h5"
+    },
+    {
+      "pid": "124864",
+      "filename": "11352.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11352.h5"
+    },
+    {
+      "pid": "126823",
+      "filename": "11233.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11233.h5"
+    },
+    {
+      "pid": "126823",
+      "filename": "11234.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11234.h5"
+    },
+    {
+      "pid": "128156",
+      "filename": "NLSI0000259.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000259.h5"
+    },
+    {
+      "pid": "128156",
+      "filename": "NLSI0000260.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000260.h5"
+    },
+    {
+      "pid": "131005",
+      "filename": "10674.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10674.h5"
+    },
+    {
+      "pid": "131005",
+      "filename": "10675.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10675.h5"
+    },
+    {
+      "pid": "131174",
+      "filename": "10122.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10122.h5"
+    },
+    {
+      "pid": "131174",
+      "filename": "10121.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10121.h5"
+    },
+    {
+      "pid": "132606",
+      "filename": "NLSI0000277.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000277.h5"
+    },
+    {
+      "pid": "134491",
+      "filename": "10378.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10378.h5"
+    },
+    {
+      "pid": "134491",
+      "filename": "10379.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10379.h5"
+    },
+    {
+      "pid": "134491",
+      "filename": "10380.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10380.h5"
+    },
+    {
+      "pid": "107012",
+      "filename": "11003.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11003.h5"
+    },
+    {
+      "pid": "107012",
+      "filename": "11004.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11004.h5"
+    },
+    {
+      "pid": "107012",
+      "filename": "11005.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11005.h5"
+    },
+    {
+      "pid": "125070",
+      "filename": "NLSI0000253.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000253.h5"
+    },
+    {
+      "pid": "125070",
+      "filename": "NLSI0000254.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000254.h5"
+    },
+    {
+      "pid": "129534",
+      "filename": "11188.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11188.h5"
+    },
+    {
+      "pid": "106063",
+      "filename": "11259.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11259.h5"
+    },
+    {
+      "pid": "106063",
+      "filename": "11260.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11260.h5"
+    },
+    {
+      "pid": "106063",
+      "filename": "11262.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11262.h5"
+    },
+    {
+      "pid": "106194",
+      "filename": "11007.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11007.h5"
+    },
+    {
+      "pid": "106194",
+      "filename": "11008.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11008.h5"
+    },
+    {
+      "pid": "106243",
+      "filename": "9532.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9532.h5"
+    },
+    {
+      "pid": "106243",
+      "filename": "9531.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9531.h5"
+    },
+    {
+      "pid": "106243",
+      "filename": "9530.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9530.h5"
+    },
+    {
+      "pid": "108352",
+      "filename": "11364.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11364.h5"
+    },
+    {
+      "pid": "108352",
+      "filename": "11365.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11365.h5"
+    },
+    {
+      "pid": "110061",
+      "filename": "10400.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10400.h5"
+    },
+    {
+      "pid": "110061",
+      "filename": "10401.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10401.h5"
+    },
+    {
+      "pid": "117289",
+      "filename": "10938.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10938.h5"
+    },
+    {
+      "pid": "117618",
+      "filename": "NLSI0000161.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000161.h5"
+    },
+    {
+      "pid": "117618",
+      "filename": "NLSI0000162-002.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000162-002.h5"
+    },
+    {
+      "pid": "130315",
+      "filename": "NLSI0000256.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000256.h5"
+    },
+    {
+      "pid": "100881",
+      "filename": "11788.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11788.h5"
+    },
+    {
+      "pid": "100881",
+      "filename": "11787.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11787.h5"
+    },
+    {
+      "pid": "100881",
+      "filename": "11786.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11786.h5"
+    },
+    {
+      "pid": "101834",
+      "filename": "NLSI0000151.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000151.h5"
+    },
+    {
+      "pid": "101834",
+      "filename": "NLSI0000152.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000152.h5"
+    },
+    {
+      "pid": "102455",
+      "filename": "9684.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9684.h5"
+    },
+    {
+      "pid": "102455",
+      "filename": "9683.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9683.h5"
+    },
+    {
+      "pid": "102455",
+      "filename": "9682.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9682.h5"
+    },
+    {
+      "pid": "102455",
+      "filename": "9681.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9681.h5"
+    },
+    {
+      "pid": "103232",
+      "filename": "9988.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9988.h5"
+    },
+    {
+      "pid": "103232",
+      "filename": "10046.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10046.h5"
+    },
+    {
+      "pid": "105562",
+      "filename": "9482.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9482.h5"
+    },
+    {
+      "pid": "105562",
+      "filename": "9481.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9481.h5"
+    },
+    {
+      "pid": "111448",
+      "filename": "NLSI0000023.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000023.h5"
+    },
+    {
+      "pid": "111448",
+      "filename": "NLSI0000024.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000024.h5"
+    },
+    {
+      "pid": "117612",
+      "filename": "11345.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11345.h5"
+    },
+    {
+      "pid": "117612",
+      "filename": "11346.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11346.h5"
+    },
+    {
+      "pid": "131423",
+      "filename": "10492.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10492.h5"
+    },
+    {
+      "pid": "131423",
+      "filename": "10494.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10494.h5"
+    },
+    {
+      "pid": "133887",
+      "filename": "9967.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9967.h5"
+    },
+    {
+      "pid": "133887",
+      "filename": "9966.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9966.h5"
+    },
+    {
+      "pid": "133887",
+      "filename": "9965.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9965.h5"
+    },
+    {
+      "pid": "101397",
+      "filename": "9993.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9993.h5"
+    },
+    {
+      "pid": "102267",
+      "filename": "10862.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10862.h5"
+    },
+    {
+      "pid": "104386",
+      "filename": "NLSI0000111.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000111.h5"
+    },
+    {
+      "pid": "106246",
+      "filename": "11471.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11471.h5"
+    },
+    {
+      "pid": "106971",
+      "filename": "9463.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9463.h5"
+    },
+    {
+      "pid": "106971",
+      "filename": "9462.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9462.h5"
+    },
+    {
+      "pid": "109198",
+      "filename": "NLSI0000107.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6/20x_256px_0px_overlap/features_uni_v2/NLSI0000107.h5"
+    },
+    {
+      "pid": "109198",
+      "filename": "NLSI0000108.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6/20x_256px_0px_overlap/features_uni_v2/NLSI0000108.h5"
+    },
+    {
+      "pid": "109198",
+      "filename": "NLSI0000110.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6/20x_256px_0px_overlap/features_uni_v2/NLSI0000110.h5"
+    },
+    {
+      "pid": "110253",
+      "filename": "10508.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10508.h5"
+    },
+    {
+      "pid": "110253",
+      "filename": "10509.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10509.h5"
+    },
+    {
+      "pid": "110253",
+      "filename": "10510.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10510.h5"
+    },
+    {
+      "pid": "113598",
+      "filename": "9778.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9778.h5"
+    },
+    {
+      "pid": "113598",
+      "filename": "9777.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9777.h5"
+    },
+    {
+      "pid": "113598",
+      "filename": "9776.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9776.h5"
+    },
+    {
+      "pid": "113814",
+      "filename": "11462.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11462.h5"
+    },
+    {
+      "pid": "113814",
+      "filename": "11463.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11463.h5"
+    },
+    {
+      "pid": "114057",
+      "filename": "10411.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10411.h5"
+    },
+    {
+      "pid": "114057",
+      "filename": "10412.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10412.h5"
+    },
+    {
+      "pid": "119839",
+      "filename": "10402.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10402.h5"
+    },
+    {
+      "pid": "119839",
+      "filename": "10403.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10403.h5"
+    },
+    {
+      "pid": "119911",
+      "filename": "9390.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9390.h5"
+    },
+    {
+      "pid": "120730",
+      "filename": "NLSI0000240.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000240.h5"
+    },
+    {
+      "pid": "120730",
+      "filename": "NLSI0000241.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000241.h5"
+    },
+    {
+      "pid": "121169",
+      "filename": "11010.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11010.h5"
+    },
+    {
+      "pid": "121823",
+      "filename": "9466.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9466.h5"
+    },
+    {
+      "pid": "121823",
+      "filename": "9465.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9465.h5"
+    },
+    {
+      "pid": "121893",
+      "filename": "11191.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11191.h5"
+    },
+    {
+      "pid": "121893",
+      "filename": "11192.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11192.h5"
+    },
+    {
+      "pid": "122590",
+      "filename": "11001.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11001.h5"
+    },
+    {
+      "pid": "124323",
+      "filename": "10419.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10419.h5"
+    },
+    {
+      "pid": "124323",
+      "filename": "10420.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10420.h5"
+    },
+    {
+      "pid": "124323",
+      "filename": "10514.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10514.h5"
+    },
+    {
+      "pid": "131237",
+      "filename": "9702.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9702.h5"
+    },
+    {
+      "pid": "131237",
+      "filename": "9701.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9701.h5"
+    },
+    {
+      "pid": "131397",
+      "filename": "NLSI0000142.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000142.h5"
+    },
+    {
+      "pid": "131397",
+      "filename": "NLSI0000143.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000143.h5"
+    },
+    {
+      "pid": "133786",
+      "filename": "NLSI0000181.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000181.h5"
+    },
+    {
+      "pid": "133786",
+      "filename": "NLSI0000182.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000182.h5"
+    },
+    {
+      "pid": "133786",
+      "filename": "NLSI0000184.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000184.h5"
+    },
+    {
+      "pid": "134371",
+      "filename": "10636.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10636.h5"
+    },
+    {
+      "pid": "134371",
+      "filename": "10851.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10851.h5"
+    },
+    {
+      "pid": "100158",
+      "filename": "9485.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9485.h5"
+    },
+    {
+      "pid": "100158",
+      "filename": "9484.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9484.h5"
+    },
+    {
+      "pid": "100681",
+      "filename": "10618.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10618.h5"
+    },
+    {
+      "pid": "100954",
+      "filename": "NLSI0000098.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000098.h5"
+    },
+    {
+      "pid": "100954",
+      "filename": "NLSI0000100.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000100.h5"
+    },
+    {
+      "pid": "100954",
+      "filename": "NLSI0000101.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000101.h5"
+    },
+    {
+      "pid": "102676",
+      "filename": "10153.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7/20x_256px_0px_overlap/features_uni_v2/10153.h5"
+    },
+    {
+      "pid": "102746",
+      "filename": "10131.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10131.h5"
+    },
+    {
+      "pid": "102746",
+      "filename": "10130.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10130.h5"
+    },
+    {
+      "pid": "102746",
+      "filename": "10372.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10372.h5"
+    },
+    {
+      "pid": "103760",
+      "filename": "11427.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11427.h5"
+    },
+    {
+      "pid": "105719",
+      "filename": "NLSI0000032.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000032.h5"
+    },
+    {
+      "pid": "105719",
+      "filename": "NLSI0000033.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000033.h5"
+    },
+    {
+      "pid": "105719",
+      "filename": "NLSI0000037.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000037.h5"
+    },
+    {
+      "pid": "106204",
+      "filename": "NLSI0000226.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000226.h5"
+    },
+    {
+      "pid": "106204",
+      "filename": "NLSI0000227.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000227.h5"
+    },
+    {
+      "pid": "106204",
+      "filename": "NLSI0000228.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000228.h5"
+    },
+    {
+      "pid": "106229",
+      "filename": "11357.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11357.h5"
+    },
+    {
+      "pid": "106229",
+      "filename": "11358.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11358.h5"
+    },
+    {
+      "pid": "106229",
+      "filename": "11359.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11359.h5"
+    },
+    {
+      "pid": "106364",
+      "filename": "11185.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11185.h5"
+    },
+    {
+      "pid": "106364",
+      "filename": "11186.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11186.h5"
+    },
+    {
+      "pid": "106507",
+      "filename": "9550.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9550.h5"
+    },
+    {
+      "pid": "106507",
+      "filename": "9549.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9549.h5"
+    },
+    {
+      "pid": "107561",
+      "filename": "NLSI0000262.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000262.h5"
+    },
+    {
+      "pid": "107561",
+      "filename": "NLSI0000263.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000263.h5"
+    },
+    {
+      "pid": "107561",
+      "filename": "NLSI0000264.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000264.h5"
+    },
+    {
+      "pid": "107807",
+      "filename": "11348.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11348.h5"
+    },
+    {
+      "pid": "107807",
+      "filename": "11349.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11349.h5"
+    },
+    {
+      "pid": "107807",
+      "filename": "11350.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11350.h5"
+    },
+    {
+      "pid": "108046",
+      "filename": "10639.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5/20x_256px_0px_overlap/features_uni_v2/10639.h5"
+    },
+    {
+      "pid": "108046",
+      "filename": "10640.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5/20x_256px_0px_overlap/features_uni_v2/10640.h5"
+    },
+    {
+      "pid": "108453",
+      "filename": "9475.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9475.h5"
+    },
+    {
+      "pid": "108453",
+      "filename": "9474.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9474.h5"
+    },
+    {
+      "pid": "108625",
+      "filename": "11432.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11432.h5"
+    },
+    {
+      "pid": "108625",
+      "filename": "11433.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11433.h5"
+    },
+    {
+      "pid": "108625",
+      "filename": "11435.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11435.h5"
+    },
+    {
+      "pid": "108625",
+      "filename": "11436.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11436.h5"
+    },
+    {
+      "pid": "108797",
+      "filename": "9497.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9497.h5"
+    },
+    {
+      "pid": "108797",
+      "filename": "9496.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9496.h5"
+    },
+    {
+      "pid": "109345",
+      "filename": "NLSI0000104.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000104.h5"
+    },
+    {
+      "pid": "109345",
+      "filename": "NLSI0000105.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000105.h5"
+    },
+    {
+      "pid": "109807",
+      "filename": "11247.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11247.h5"
+    },
+    {
+      "pid": "109807",
+      "filename": "11248.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11248.h5"
+    },
+    {
+      "pid": "109807",
+      "filename": "11249.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11249.h5"
+    },
+    {
+      "pid": "113176",
+      "filename": "11295.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11295.h5"
+    },
+    {
+      "pid": "113176",
+      "filename": "11296.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11296.h5"
+    },
+    {
+      "pid": "113894",
+      "filename": "11107.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11107.h5"
+    },
+    {
+      "pid": "113894",
+      "filename": "11036.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11036.h5"
+    },
+    {
+      "pid": "113894",
+      "filename": "11038.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11038.h5"
+    },
+    {
+      "pid": "116221",
+      "filename": "11288.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5/20x_256px_0px_overlap/features_uni_v2/11288.h5"
+    },
+    {
+      "pid": "116221",
+      "filename": "11290.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5/20x_256px_0px_overlap/features_uni_v2/11290.h5"
+    },
+    {
+      "pid": "116221",
+      "filename": "11291.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5/20x_256px_0px_overlap/features_uni_v2/11291.h5"
+    },
+    {
+      "pid": "117627",
+      "filename": "NLSI0000113.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000113.h5"
+    },
+    {
+      "pid": "117627",
+      "filename": "NLSI0000116.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000116.h5"
+    },
+    {
+      "pid": "117939",
+      "filename": "9402.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9402.h5"
+    },
+    {
+      "pid": "117939",
+      "filename": "9401.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9401.h5"
+    },
+    {
+      "pid": "117939",
+      "filename": "9400.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9400.h5"
+    },
+    {
+      "pid": "117994",
+      "filename": "NLSI0000250.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000250.h5"
+    },
+    {
+      "pid": "117994",
+      "filename": "NLSI0000251-001.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000251-001.h5"
+    },
+    {
+      "pid": "118464",
+      "filename": "11382.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11382.h5"
+    },
+    {
+      "pid": "118464",
+      "filename": "11383.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11383.h5"
+    },
+    {
+      "pid": "118552",
+      "filename": "10520.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5/20x_256px_0px_overlap/features_uni_v2/10520.h5"
+    },
+    {
+      "pid": "118713",
+      "filename": "NLSI0000074.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000074.h5"
+    },
+    {
+      "pid": "118713",
+      "filename": "NLSI0000075.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000075.h5"
+    },
+    {
+      "pid": "120707",
+      "filename": "11303.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11303.h5"
+    },
+    {
+      "pid": "120707",
+      "filename": "11304.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11304.h5"
+    },
+    {
+      "pid": "120707",
+      "filename": "11306.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11306.h5"
+    },
+    {
+      "pid": "120907",
+      "filename": "9808.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9808.h5"
+    },
+    {
+      "pid": "120907",
+      "filename": "9953.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9953.h5"
+    },
+    {
+      "pid": "122226",
+      "filename": "NLSI0000131.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000131.h5"
+    },
+    {
+      "pid": "122226",
+      "filename": "NLSI0000132.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000132.h5"
+    },
+    {
+      "pid": "126576",
+      "filename": "NLSI0000090.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000090.h5"
+    },
+    {
+      "pid": "126576",
+      "filename": "NLSI0000091.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000091.h5"
+    },
+    {
+      "pid": "126657",
+      "filename": "10162.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10162.h5"
+    },
+    {
+      "pid": "126657",
+      "filename": "10161.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10161.h5"
+    },
+    {
+      "pid": "127923",
+      "filename": "NLSI0000062.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5/20x_256px_0px_overlap/features_uni_v2/NLSI0000062.h5"
+    },
+    {
+      "pid": "127923",
+      "filename": "NLSI0000063.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5/20x_256px_0px_overlap/features_uni_v2/NLSI0000063.h5"
+    },
+    {
+      "pid": "128899",
+      "filename": "11030.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11030.h5"
+    },
+    {
+      "pid": "128899",
+      "filename": "11031.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11031.h5"
+    },
+    {
+      "pid": "128899",
+      "filename": "11032.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11032.h5"
+    },
+    {
+      "pid": "128899",
+      "filename": "11033.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11033.h5"
+    },
+    {
+      "pid": "128899",
+      "filename": "11034.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11034.h5"
+    },
+    {
+      "pid": "129511",
+      "filename": "11285.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11285.h5"
+    },
+    {
+      "pid": "129511",
+      "filename": "11286.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11286.h5"
+    },
+    {
+      "pid": "129627",
+      "filename": "11112.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11112.h5"
+    },
+    {
+      "pid": "129627",
+      "filename": "11113.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11113.h5"
+    },
+    {
+      "pid": "132386",
+      "filename": "10134.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10134.h5"
+    },
+    {
+      "pid": "132386",
+      "filename": "10133.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10133.h5"
+    },
+    {
+      "pid": "133231",
+      "filename": "11279.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11279.h5"
+    },
+    {
+      "pid": "133231",
+      "filename": "11280.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11280.h5"
+    },
+    {
+      "pid": "133231",
+      "filename": "11281.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11281.h5"
+    },
+    {
+      "pid": "133934",
+      "filename": "10408.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7/20x_256px_0px_overlap/features_uni_v2/10408.h5"
+    },
+    {
+      "pid": "133934",
+      "filename": "10409.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7/20x_256px_0px_overlap/features_uni_v2/10409.h5"
+    },
+    {
+      "pid": "115345",
+      "filename": "10889.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10889.h5"
+    },
+    {
+      "pid": "115345",
+      "filename": "10678.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10678.h5"
+    }
+  ],
+  "val": [
+    {
+      "pid": "103189",
+      "filename": "10856.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10856.h5"
+    },
+    {
+      "pid": "103189",
+      "filename": "10857.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10857.h5"
+    },
+    {
+      "pid": "105165",
+      "filename": "10619.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10619.h5"
+    },
+    {
+      "pid": "105165",
+      "filename": "10530.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10530.h5"
+    },
+    {
+      "pid": "105165",
+      "filename": "10184.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10184.h5"
+    },
+    {
+      "pid": "110356",
+      "filename": "11454.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11454.h5"
+    },
+    {
+      "pid": "110356",
+      "filename": "11455.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11455.h5"
+    },
+    {
+      "pid": "110356",
+      "filename": "11456.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11456.h5"
+    },
+    {
+      "pid": "112575",
+      "filename": "10877.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10877.h5"
+    },
+    {
+      "pid": "112575",
+      "filename": "10878.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10878.h5"
+    },
+    {
+      "pid": "117966",
+      "filename": "9723.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9723.h5"
+    },
+    {
+      "pid": "118672",
+      "filename": "NLSI0000086.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000086.h5"
+    },
+    {
+      "pid": "120701",
+      "filename": "9747.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9747.h5"
+    },
+    {
+      "pid": "120701",
+      "filename": "9746.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9746.h5"
+    },
+    {
+      "pid": "120701",
+      "filename": "9745.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9745.h5"
+    },
+    {
+      "pid": "121099",
+      "filename": "10111.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10111.h5"
+    },
+    {
+      "pid": "121099",
+      "filename": "10110.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10110.h5"
+    },
+    {
+      "pid": "123072",
+      "filename": "10859.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10859.h5"
+    },
+    {
+      "pid": "126955",
+      "filename": "NLSI0000266.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000266.h5"
+    },
+    {
+      "pid": "126955",
+      "filename": "NLSI0000267.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000267.h5"
+    },
+    {
+      "pid": "120410",
+      "filename": "10860.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10860.h5"
+    },
+    {
+      "pid": "120410",
+      "filename": "10876.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10876.h5"
+    },
+    {
+      "pid": "120410",
+      "filename": "10653.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10653.h5"
+    },
+    {
+      "pid": "101066",
+      "filename": "9665.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/9665.h5"
+    },
+    {
+      "pid": "106070",
+      "filename": "10460.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10460.h5"
+    },
+    {
+      "pid": "106070",
+      "filename": "10461.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10461.h5"
+    },
+    {
+      "pid": "123629",
+      "filename": "9389.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9389.h5"
+    },
+    {
+      "pid": "123629",
+      "filename": "9388.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9388.h5"
+    },
+    {
+      "pid": "107434",
+      "filename": "9939.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7/20x_256px_0px_overlap/features_uni_v2/9939.h5"
+    },
+    {
+      "pid": "107434",
+      "filename": "9949.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7/20x_256px_0px_overlap/features_uni_v2/9949.h5"
+    },
+    {
+      "pid": "109025",
+      "filename": "10021.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10021.h5"
+    },
+    {
+      "pid": "112261",
+      "filename": "10886.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10886.h5"
+    },
+    {
+      "pid": "112261",
+      "filename": "10669.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10669.h5"
+    },
+    {
+      "pid": "114616",
+      "filename": "NLSI0000216.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000216.h5"
+    },
+    {
+      "pid": "116137",
+      "filename": "9680.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7/20x_256px_0px_overlap/features_uni_v2/9680.h5"
+    },
+    {
+      "pid": "116137",
+      "filename": "9679.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7/20x_256px_0px_overlap/features_uni_v2/9679.h5"
+    },
+    {
+      "pid": "116602",
+      "filename": "10127.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10127.h5"
+    },
+    {
+      "pid": "116602",
+      "filename": "10126.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10126.h5"
+    },
+    {
+      "pid": "117373",
+      "filename": "NLSI0000159.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000159.h5"
+    },
+    {
+      "pid": "123067",
+      "filename": "11124.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11124.h5"
+    },
+    {
+      "pid": "123067",
+      "filename": "11125.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11125.h5"
+    },
+    {
+      "pid": "128669",
+      "filename": "NLSI0000185.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000185.h5"
+    },
+    {
+      "pid": "128669",
+      "filename": "NLSI0000186.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000186.h5"
+    }
+  ],
+  "test": [
+    {
+      "pid": "103621",
+      "filename": "10994.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10994.h5"
+    },
+    {
+      "pid": "103621",
+      "filename": "10995.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10995.h5"
+    },
+    {
+      "pid": "104363",
+      "filename": "11042.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11042.h5"
+    },
+    {
+      "pid": "104363",
+      "filename": "11043.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/11043.h5"
+    },
+    {
+      "pid": "108061",
+      "filename": "11252.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11252.h5"
+    },
+    {
+      "pid": "109259",
+      "filename": "10987.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10987.h5"
+    },
+    {
+      "pid": "109259",
+      "filename": "10988.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10988.h5"
+    },
+    {
+      "pid": "109259",
+      "filename": "10989.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10989.h5"
+    },
+    {
+      "pid": "109889",
+      "filename": "10484.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10484.h5"
+    },
+    {
+      "pid": "109889",
+      "filename": "10485.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10485.h5"
+    },
+    {
+      "pid": "115571",
+      "filename": "NLSI0000134.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000134.h5"
+    },
+    {
+      "pid": "115571",
+      "filename": "NLSI0000135.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000135.h5"
+    },
+    {
+      "pid": "115571",
+      "filename": "NLSI0000136.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000136.h5"
+    },
+    {
+      "pid": "117601",
+      "filename": "NLSI0000154.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000154.h5"
+    },
+    {
+      "pid": "117601",
+      "filename": "NLSI0000155.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000155.h5"
+    },
+    {
+      "pid": "117601",
+      "filename": "NLSI0000156.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000156.h5"
+    },
+    {
+      "pid": "118602",
+      "filename": "11321.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11321.h5"
+    },
+    {
+      "pid": "126977",
+      "filename": "NLSI0000077.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000077.h5"
+    },
+    {
+      "pid": "126977",
+      "filename": "NLSI0000078.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000078.h5"
+    },
+    {
+      "pid": "134082",
+      "filename": "11229.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11229.h5"
+    },
+    {
+      "pid": "112073",
+      "filename": "NLSI0000174.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/NLSI0000174.h5"
+    },
+    {
+      "pid": "125649",
+      "filename": "NLSI0000289.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000289.h5"
+    },
+    {
+      "pid": "125649",
+      "filename": "NLSI0000290.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000290.h5"
+    },
+    {
+      "pid": "125649",
+      "filename": "NLSI0000291.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000291.h5"
+    },
+    {
+      "pid": "125649",
+      "filename": "NLSI0000292.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/NLSI0000292.h5"
+    },
+    {
+      "pid": "116597",
+      "filename": "9741.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9741.h5"
+    },
+    {
+      "pid": "116597",
+      "filename": "9740.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9740.h5"
+    },
+    {
+      "pid": "125727",
+      "filename": "11460.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11460.h5"
+    },
+    {
+      "pid": "101192",
+      "filename": "10136.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10136.h5"
+    },
+    {
+      "pid": "116349",
+      "filename": "10837.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10837.h5"
+    },
+    {
+      "pid": "116349",
+      "filename": "10934.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10934.h5"
+    },
+    {
+      "pid": "126792",
+      "filename": "10417.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10417.h5"
+    },
+    {
+      "pid": "131910",
+      "filename": "9529.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9529.h5"
+    },
+    {
+      "pid": "131910",
+      "filename": "9528.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9528.h5"
+    },
+    {
+      "pid": "100012",
+      "filename": "11445.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11445.h5"
+    },
+    {
+      "pid": "100012",
+      "filename": "11446.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11446.h5"
+    },
+    {
+      "pid": "100280",
+      "filename": "9738.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9738.h5"
+    },
+    {
+      "pid": "100280",
+      "filename": "9737.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/9737.h5"
+    },
+    {
+      "pid": "100824",
+      "filename": "11333.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11333.h5"
+    },
+    {
+      "pid": "100824",
+      "filename": "11334.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11334.h5"
+    },
+    {
+      "pid": "113918",
+      "filename": "10381.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10381.h5"
+    },
+    {
+      "pid": "113918",
+      "filename": "10382.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10382.h5"
+    },
+    {
+      "pid": "113918",
+      "filename": "10384.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/10384.h5"
+    },
+    {
+      "pid": "122117",
+      "filename": "9461.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9461.h5"
+    },
+    {
+      "pid": "122117",
+      "filename": "9460.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9460.h5"
+    },
+    {
+      "pid": "122117",
+      "filename": "9459.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9459.h5"
+    },
+    {
+      "pid": "123324",
+      "filename": "NLSI0000120.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000120.h5"
+    },
+    {
+      "pid": "123324",
+      "filename": "NLSI0000121.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/NLSI0000121.h5"
+    },
+    {
+      "pid": "128544",
+      "filename": "11236.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11236.h5"
+    },
+    {
+      "pid": "128544",
+      "filename": "11237.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11237.h5"
+    },
+    {
+      "pid": "128544",
+      "filename": "11238.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11238.h5"
+    },
+    {
+      "pid": "128544",
+      "filename": "11239.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11239.h5"
+    },
+    {
+      "pid": "128544",
+      "filename": "11240.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11240.h5"
+    },
+    {
+      "pid": "103566",
+      "filename": "9990.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9990.h5"
+    },
+    {
+      "pid": "103566",
+      "filename": "9989.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9989.h5"
+    },
+    {
+      "pid": "103566",
+      "filename": "10024.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10024.h5"
+    },
+    {
+      "pid": "106286",
+      "filename": "11402.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11402.h5"
+    },
+    {
+      "pid": "106286",
+      "filename": "11403.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11403.h5"
+    },
+    {
+      "pid": "106286",
+      "filename": "11404.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2/20x_256px_0px_overlap/features_uni_v2/11404.h5"
+    },
+    {
+      "pid": "107077",
+      "filename": "9976.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9976.h5"
+    },
+    {
+      "pid": "107077",
+      "filename": "9975.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9975.h5"
+    },
+    {
+      "pid": "107077",
+      "filename": "9974.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/9974.h5"
+    },
+    {
+      "pid": "108034",
+      "filename": "9500.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6/20x_256px_0px_overlap/features_uni_v2/9500.h5"
+    },
+    {
+      "pid": "108034",
+      "filename": "9499.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6/20x_256px_0px_overlap/features_uni_v2/9499.h5"
+    },
+    {
+      "pid": "110054",
+      "filename": "10503.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10503.h5"
+    },
+    {
+      "pid": "110054",
+      "filename": "10443.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10443.h5"
+    },
+    {
+      "pid": "110054",
+      "filename": "10504.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10504.h5"
+    },
+    {
+      "pid": "110217",
+      "filename": "11263.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11263.h5"
+    },
+    {
+      "pid": "110217",
+      "filename": "11264.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11264.h5"
+    },
+    {
+      "pid": "110217",
+      "filename": "11265.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11265.h5"
+    },
+    {
+      "pid": "110898",
+      "filename": "9707.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9707.h5"
+    },
+    {
+      "pid": "110898",
+      "filename": "9706.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/9706.h5"
+    },
+    {
+      "pid": "112041",
+      "filename": "NLSI0000223.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000223.h5"
+    },
+    {
+      "pid": "112041",
+      "filename": "NLSI0000224.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/NLSI0000224.h5"
+    },
+    {
+      "pid": "114936",
+      "filename": "11105.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11105.h5"
+    },
+    {
+      "pid": "114936",
+      "filename": "11106.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11106.h5"
+    },
+    {
+      "pid": "116289",
+      "filename": "10015.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1/20x_256px_0px_overlap/features_uni_v2/10015.h5"
+    },
+    {
+      "pid": "118248",
+      "filename": "11118.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11118.h5"
+    },
+    {
+      "pid": "118248",
+      "filename": "11119.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/11119.h5"
+    },
+    {
+      "pid": "118323",
+      "filename": "11342.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11342.h5"
+    },
+    {
+      "pid": "118323",
+      "filename": "11343.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11343.h5"
+    },
+    {
+      "pid": "118323",
+      "filename": "11344.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/11344.h5"
+    },
+    {
+      "pid": "120969",
+      "filename": "10852.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6/20x_256px_0px_overlap/features_uni_v2/10852.h5"
+    },
+    {
+      "pid": "127242",
+      "filename": "10887.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10887.h5"
+    },
+    {
+      "pid": "127242",
+      "filename": "10672.svs",
+      "vi_label": "VITUMOR",
+      "label": 1,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4/20x_256px_0px_overlap/features_uni_v2/10672.h5"
+    },
+    {
+      "pid": "131611",
+      "filename": "10526.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10526.h5"
+    },
+    {
+      "pid": "131611",
+      "filename": "10497.svs",
+      "vi_label": "NONVITUMOR",
+      "label": 0,
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3/20x_256px_0px_overlap/features_uni_v2/10497.h5"
+    }
+  ]
+}

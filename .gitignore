@@ -1,0 +1,10 @@
+checkpoints/
+.cache/
+*.o[0-9]*
+__pycache__/
+*.pyc
+logs/
+predictions/
+.DS_Store
+lib/
+results_uni_v2/
