@@ -1,0 +1,3553 @@
+{
+  "train": [
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11445.h5",
+      "label": 1,
+      "pid": "100012"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11446.h5",
+      "label": 1,
+      "pid": "100012"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11447.h5",
+      "label": 0,
+      "pid": "100012"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000526.h5",
+      "label": 1,
+      "pid": "100147"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9485.h5",
+      "label": 1,
+      "pid": "100158"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9484.h5",
+      "label": 1,
+      "pid": "100158"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9483.h5",
+      "label": 0,
+      "pid": "100158"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9738.h5",
+      "label": 1,
+      "pid": "100280"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9737.h5",
+      "label": 1,
+      "pid": "100280"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9736.h5",
+      "label": 0,
+      "pid": "100280"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11361.h5",
+      "label": 1,
+      "pid": "100381"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11362.h5",
+      "label": 0,
+      "pid": "100381"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11363.h5",
+      "label": 0,
+      "pid": "100381"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10618.h5",
+      "label": 1,
+      "pid": "100681"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11333.h5",
+      "label": 1,
+      "pid": "100824"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11334.h5",
+      "label": 1,
+      "pid": "100824"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11335.h5",
+      "label": 0,
+      "pid": "100824"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000098.h5",
+      "label": 1,
+      "pid": "100954"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000099.h5",
+      "label": 0,
+      "pid": "100954"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000100.h5",
+      "label": 1,
+      "pid": "100954"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000101.h5",
+      "label": 1,
+      "pid": "100954"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9993.h5",
+      "label": 1,
+      "pid": "101397"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9538.h5",
+      "label": 1,
+      "pid": "101449"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9537.h5",
+      "label": 1,
+      "pid": "101449"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9536.h5",
+      "label": 0,
+      "pid": "101449"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10862.h5",
+      "label": 1,
+      "pid": "102267"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10863.h5",
+      "label": 0,
+      "pid": "102267"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10864.h5",
+      "label": 0,
+      "pid": "102267"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9684.h5",
+      "label": 1,
+      "pid": "102455"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9683.h5",
+      "label": 1,
+      "pid": "102455"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9682.h5",
+      "label": 1,
+      "pid": "102455"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9681.h5",
+      "label": 1,
+      "pid": "102455"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/10153.h5",
+      "label": 1,
+      "pid": "102676"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10131.h5",
+      "label": 1,
+      "pid": "102746"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10130.h5",
+      "label": 1,
+      "pid": "102746"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10372.h5",
+      "label": 1,
+      "pid": "102746"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9988.h5",
+      "label": 1,
+      "pid": "103232"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10046.h5",
+      "label": 1,
+      "pid": "103232"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9987.h5",
+      "label": 0,
+      "pid": "103232"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10033.h5",
+      "label": 1,
+      "pid": "103344"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10032.h5",
+      "label": 1,
+      "pid": "103344"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10997.h5",
+      "label": 1,
+      "pid": "103507"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10998.h5",
+      "label": 1,
+      "pid": "103507"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10999.h5",
+      "label": 1,
+      "pid": "103507"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11000.h5",
+      "label": 0,
+      "pid": "103507"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9990.h5",
+      "label": 1,
+      "pid": "103566"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9989.h5",
+      "label": 1,
+      "pid": "103566"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10024.h5",
+      "label": 1,
+      "pid": "103566"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10994.h5",
+      "label": 1,
+      "pid": "103621"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10995.h5",
+      "label": 1,
+      "pid": "103621"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10996.h5",
+      "label": 0,
+      "pid": "103621"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11426.h5",
+      "label": 0,
+      "pid": "103760"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11427.h5",
+      "label": 1,
+      "pid": "103760"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11428.h5",
+      "label": 0,
+      "pid": "103760"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000083.h5",
+      "label": 1,
+      "pid": "104208"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000084.h5",
+      "label": 0,
+      "pid": "104208"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11042.h5",
+      "label": 1,
+      "pid": "104363"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11043.h5",
+      "label": 1,
+      "pid": "104363"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11044.h5",
+      "label": 0,
+      "pid": "104363"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000111.h5",
+      "label": 1,
+      "pid": "104386"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000112.h5",
+      "label": 0,
+      "pid": "104386"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11048.h5",
+      "label": 1,
+      "pid": "104564"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11110.h5",
+      "label": 1,
+      "pid": "104564"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11111.h5",
+      "label": 0,
+      "pid": "104564"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000019.h5",
+      "label": 1,
+      "pid": "104815"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000020.h5",
+      "label": 0,
+      "pid": "104815"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000087.h5",
+      "label": 1,
+      "pid": "105142"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000088.h5",
+      "label": 1,
+      "pid": "105142"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10619.h5",
+      "label": 1,
+      "pid": "105165"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10530.h5",
+      "label": 1,
+      "pid": "105165"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10184.h5",
+      "label": 1,
+      "pid": "105165"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10183.h5",
+      "label": 0,
+      "pid": "105165"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11413.h5",
+      "label": 1,
+      "pid": "105602"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11312.h5",
+      "label": 1,
+      "pid": "105713"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11313.h5",
+      "label": 1,
+      "pid": "105713"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11314.h5",
+      "label": 0,
+      "pid": "105713"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000032.h5",
+      "label": 1,
+      "pid": "105719"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000033.h5",
+      "label": 1,
+      "pid": "105719"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000034.h5",
+      "label": 0,
+      "pid": "105719"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000035.h5",
+      "label": 0,
+      "pid": "105719"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000036.h5",
+      "label": 0,
+      "pid": "105719"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000037.h5",
+      "label": 1,
+      "pid": "105719"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10626.h5",
+      "label": 1,
+      "pid": "105974"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10932.h5",
+      "label": 1,
+      "pid": "105974"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10395.h5",
+      "label": 1,
+      "pid": "105974"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10531.h5",
+      "label": 1,
+      "pid": "106000"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10181.h5",
+      "label": 0,
+      "pid": "106000"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10358.h5",
+      "label": 0,
+      "pid": "106000"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11259.h5",
+      "label": 1,
+      "pid": "106063"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11260.h5",
+      "label": 1,
+      "pid": "106063"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11261.h5",
+      "label": 0,
+      "pid": "106063"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11262.h5",
+      "label": 1,
+      "pid": "106063"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10460.h5",
+      "label": 1,
+      "pid": "106070"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10461.h5",
+      "label": 1,
+      "pid": "106070"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10489.h5",
+      "label": 0,
+      "pid": "106070"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10490.h5",
+      "label": 0,
+      "pid": "106070"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11007.h5",
+      "label": 1,
+      "pid": "106194"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11008.h5",
+      "label": 1,
+      "pid": "106194"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11009.h5",
+      "label": 0,
+      "pid": "106194"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000226.h5",
+      "label": 1,
+      "pid": "106204"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000227.h5",
+      "label": 1,
+      "pid": "106204"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000228.h5",
+      "label": 1,
+      "pid": "106204"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11357.h5",
+      "label": 1,
+      "pid": "106229"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11358.h5",
+      "label": 1,
+      "pid": "106229"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11359.h5",
+      "label": 1,
+      "pid": "106229"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11360.h5",
+      "label": 0,
+      "pid": "106229"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9532.h5",
+      "label": 1,
+      "pid": "106243"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9531.h5",
+      "label": 1,
+      "pid": "106243"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9530.h5",
+      "label": 1,
+      "pid": "106243"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11402.h5",
+      "label": 1,
+      "pid": "106286"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11403.h5",
+      "label": 1,
+      "pid": "106286"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11404.h5",
+      "label": 1,
+      "pid": "106286"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11405.h5",
+      "label": 0,
+      "pid": "106286"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11185.h5",
+      "label": 1,
+      "pid": "106364"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11186.h5",
+      "label": 1,
+      "pid": "106364"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11187.h5",
+      "label": 0,
+      "pid": "106364"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9463.h5",
+      "label": 1,
+      "pid": "106971"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9462.h5",
+      "label": 1,
+      "pid": "106971"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11003.h5",
+      "label": 1,
+      "pid": "107012"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11004.h5",
+      "label": 1,
+      "pid": "107012"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11005.h5",
+      "label": 1,
+      "pid": "107012"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11006.h5",
+      "label": 0,
+      "pid": "107012"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9976.h5",
+      "label": 1,
+      "pid": "107077"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9975.h5",
+      "label": 1,
+      "pid": "107077"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9974.h5",
+      "label": 1,
+      "pid": "107077"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9973.h5",
+      "label": 0,
+      "pid": "107077"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000262.h5",
+      "label": 1,
+      "pid": "107561"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000263.h5",
+      "label": 1,
+      "pid": "107561"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000264.h5",
+      "label": 1,
+      "pid": "107561"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000265.h5",
+      "label": 0,
+      "pid": "107561"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11253.h5",
+      "label": 1,
+      "pid": "107682"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11254.h5",
+      "label": 1,
+      "pid": "107682"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11255.h5",
+      "label": 0,
+      "pid": "107682"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11348.h5",
+      "label": 1,
+      "pid": "107807"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11349.h5",
+      "label": 1,
+      "pid": "107807"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11350.h5",
+      "label": 1,
+      "pid": "107807"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9663.h5",
+      "label": 1,
+      "pid": "108012"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9662.h5",
+      "label": 1,
+      "pid": "108012"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/features_conch_v15/9500.h5",
+      "label": 1,
+      "pid": "108034"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/features_conch_v15/9499.h5",
+      "label": 1,
+      "pid": "108034"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/features_conch_v15/9498.h5",
+      "label": 0,
+      "pid": "108034"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/10639.h5",
+      "label": 1,
+      "pid": "108046"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/10640.h5",
+      "label": 1,
+      "pid": "108046"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/10641.h5",
+      "label": 0,
+      "pid": "108046"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11251.h5",
+      "label": 0,
+      "pid": "108061"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11252.h5",
+      "label": 1,
+      "pid": "108061"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10036.h5",
+      "label": 1,
+      "pid": "108135"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10035.h5",
+      "label": 1,
+      "pid": "108135"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10034.h5",
+      "label": 1,
+      "pid": "108135"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11364.h5",
+      "label": 1,
+      "pid": "108352"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11365.h5",
+      "label": 1,
+      "pid": "108352"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11366.h5",
+      "label": 0,
+      "pid": "108352"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9475.h5",
+      "label": 1,
+      "pid": "108453"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9474.h5",
+      "label": 1,
+      "pid": "108453"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9473.h5",
+      "label": 0,
+      "pid": "108453"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9692.h5",
+      "label": 1,
+      "pid": "108543"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9691.h5",
+      "label": 1,
+      "pid": "108543"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9690.h5",
+      "label": 0,
+      "pid": "108543"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9689.h5",
+      "label": 1,
+      "pid": "108543"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11432.h5",
+      "label": 1,
+      "pid": "108625"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11433.h5",
+      "label": 1,
+      "pid": "108625"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11434.h5",
+      "label": 0,
+      "pid": "108625"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11435.h5",
+      "label": 1,
+      "pid": "108625"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11436.h5",
+      "label": 1,
+      "pid": "108625"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11437.h5",
+      "label": 0,
+      "pid": "108625"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10904.h5",
+      "label": 1,
+      "pid": "108906"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10905.h5",
+      "label": 1,
+      "pid": "108906"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10940.h5",
+      "label": 0,
+      "pid": "108906"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10939.h5",
+      "label": 1,
+      "pid": "108906"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000104.h5",
+      "label": 1,
+      "pid": "109345"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000105.h5",
+      "label": 1,
+      "pid": "109345"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000106.h5",
+      "label": 0,
+      "pid": "109345"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10627.h5",
+      "label": 1,
+      "pid": "109532"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10979.h5",
+      "label": 1,
+      "pid": "109532"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10628.h5",
+      "label": 1,
+      "pid": "109532"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10933.h5",
+      "label": 1,
+      "pid": "109532"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11247.h5",
+      "label": 1,
+      "pid": "109807"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11248.h5",
+      "label": 1,
+      "pid": "109807"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11249.h5",
+      "label": 1,
+      "pid": "109807"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11250.h5",
+      "label": 0,
+      "pid": "109807"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10484.h5",
+      "label": 1,
+      "pid": "109889"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10485.h5",
+      "label": 1,
+      "pid": "109889"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10486.h5",
+      "label": 0,
+      "pid": "109889"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10503.h5",
+      "label": 1,
+      "pid": "110054"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10443.h5",
+      "label": 1,
+      "pid": "110054"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10504.h5",
+      "label": 1,
+      "pid": "110054"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10400.h5",
+      "label": 1,
+      "pid": "110061"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10401.h5",
+      "label": 1,
+      "pid": "110061"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11429.h5",
+      "label": 1,
+      "pid": "110196"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11430.h5",
+      "label": 1,
+      "pid": "110196"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11431.h5",
+      "label": 0,
+      "pid": "110196"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10508.h5",
+      "label": 1,
+      "pid": "110253"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10509.h5",
+      "label": 1,
+      "pid": "110253"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10510.h5",
+      "label": 1,
+      "pid": "110253"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11454.h5",
+      "label": 1,
+      "pid": "110356"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11455.h5",
+      "label": 1,
+      "pid": "110356"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11456.h5",
+      "label": 1,
+      "pid": "110356"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11457.h5",
+      "label": 0,
+      "pid": "110356"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9754.h5",
+      "label": 1,
+      "pid": "110821"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9753.h5",
+      "label": 0,
+      "pid": "110821"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000023.h5",
+      "label": 1,
+      "pid": "111448"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000024.h5",
+      "label": 1,
+      "pid": "111448"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9469.h5",
+      "label": 1,
+      "pid": "111835"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9468.h5",
+      "label": 1,
+      "pid": "111835"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9467.h5",
+      "label": 0,
+      "pid": "111835"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000025.h5",
+      "label": 1,
+      "pid": "112052"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000026.h5",
+      "label": 1,
+      "pid": "112052"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000027.h5",
+      "label": 0,
+      "pid": "112052"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000173.h5",
+      "label": 0,
+      "pid": "112073"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000174.h5",
+      "label": 1,
+      "pid": "112073"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000269.h5",
+      "label": 1,
+      "pid": "112414"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000270.h5",
+      "label": 1,
+      "pid": "112414"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000271.h5",
+      "label": 0,
+      "pid": "112414"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10877.h5",
+      "label": 1,
+      "pid": "112575"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10878.h5",
+      "label": 1,
+      "pid": "112575"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10879.h5",
+      "label": 0,
+      "pid": "112575"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9397.h5",
+      "label": 1,
+      "pid": "112893"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9396.h5",
+      "label": 0,
+      "pid": "112893"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9395.h5",
+      "label": 1,
+      "pid": "112893"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11215.h5",
+      "label": 1,
+      "pid": "113041"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11216.h5",
+      "label": 0,
+      "pid": "113041"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11217.h5",
+      "label": 1,
+      "pid": "113041"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11218.h5",
+      "label": 1,
+      "pid": "113041"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11219.h5",
+      "label": 0,
+      "pid": "113041"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11295.h5",
+      "label": 1,
+      "pid": "113176"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11296.h5",
+      "label": 1,
+      "pid": "113176"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11297.h5",
+      "label": 0,
+      "pid": "113176"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9778.h5",
+      "label": 1,
+      "pid": "113598"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9777.h5",
+      "label": 1,
+      "pid": "113598"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9776.h5",
+      "label": 1,
+      "pid": "113598"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9775.h5",
+      "label": 0,
+      "pid": "113598"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10037.h5",
+      "label": 0,
+      "pid": "113598"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11107.h5",
+      "label": 1,
+      "pid": "113894"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11036.h5",
+      "label": 1,
+      "pid": "113894"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11037.h5",
+      "label": 0,
+      "pid": "113894"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11038.h5",
+      "label": 1,
+      "pid": "113894"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11367.h5",
+      "label": 0,
+      "pid": "114103"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11368.h5",
+      "label": 1,
+      "pid": "114103"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11369.h5",
+      "label": 0,
+      "pid": "114103"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11370.h5",
+      "label": 0,
+      "pid": "114311"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11371.h5",
+      "label": 0,
+      "pid": "114311"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11372.h5",
+      "label": 1,
+      "pid": "114311"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11373.h5",
+      "label": 1,
+      "pid": "114311"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000215.h5",
+      "label": 0,
+      "pid": "114616"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000216.h5",
+      "label": 1,
+      "pid": "114616"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000217.h5",
+      "label": 0,
+      "pid": "114616"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11105.h5",
+      "label": 1,
+      "pid": "114936"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11106.h5",
+      "label": 1,
+      "pid": "114936"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11029.h5",
+      "label": 0,
+      "pid": "114936"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9957.h5",
+      "label": 1,
+      "pid": "115020"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9956.h5",
+      "label": 0,
+      "pid": "115020"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10889.h5",
+      "label": 1,
+      "pid": "115345"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10678.h5",
+      "label": 1,
+      "pid": "115345"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/9680.h5",
+      "label": 1,
+      "pid": "116137"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/9679.h5",
+      "label": 1,
+      "pid": "116137"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/9678.h5",
+      "label": 0,
+      "pid": "116137"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/9677.h5",
+      "label": 0,
+      "pid": "116137"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/11288.h5",
+      "label": 1,
+      "pid": "116221"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/11290.h5",
+      "label": 1,
+      "pid": "116221"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/11291.h5",
+      "label": 1,
+      "pid": "116221"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10837.h5",
+      "label": 1,
+      "pid": "116349"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10934.h5",
+      "label": 1,
+      "pid": "116349"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10840.h5",
+      "label": 0,
+      "pid": "116349"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10127.h5",
+      "label": 1,
+      "pid": "116602"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10126.h5",
+      "label": 1,
+      "pid": "116602"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10125.h5",
+      "label": 0,
+      "pid": "116602"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9493.h5",
+      "label": 1,
+      "pid": "116747"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9492.h5",
+      "label": 0,
+      "pid": "116747"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000014.h5",
+      "label": 1,
+      "pid": "116798"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000015.h5",
+      "label": 1,
+      "pid": "116798"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000016.h5",
+      "label": 0,
+      "pid": "116798"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10938.h5",
+      "label": 1,
+      "pid": "117289"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10937.h5",
+      "label": 0,
+      "pid": "117289"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000154.h5",
+      "label": 1,
+      "pid": "117601"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000155.h5",
+      "label": 1,
+      "pid": "117601"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000156.h5",
+      "label": 1,
+      "pid": "117601"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000160.h5",
+      "label": 0,
+      "pid": "117618"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000161.h5",
+      "label": 1,
+      "pid": "117618"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000162-002.h5",
+      "label": 1,
+      "pid": "117618"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000157.h5",
+      "label": 1,
+      "pid": "117820"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000158.h5",
+      "label": 0,
+      "pid": "117820"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000250.h5",
+      "label": 1,
+      "pid": "117994"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000251-001.h5",
+      "label": 1,
+      "pid": "117994"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000252.h5",
+      "label": 0,
+      "pid": "117994"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11118.h5",
+      "label": 1,
+      "pid": "118248"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11119.h5",
+      "label": 1,
+      "pid": "118248"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11120.h5",
+      "label": 0,
+      "pid": "118248"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/10520.h5",
+      "label": 1,
+      "pid": "118552"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11321.h5",
+      "label": 1,
+      "pid": "118602"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11322.h5",
+      "label": 0,
+      "pid": "118602"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9458.h5",
+      "label": 1,
+      "pid": "118658"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9457.h5",
+      "label": 0,
+      "pid": "118658"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000059.h5",
+      "label": 1,
+      "pid": "118664"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000060.h5",
+      "label": 1,
+      "pid": "118664"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000061.h5",
+      "label": 0,
+      "pid": "118664"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000074.h5",
+      "label": 1,
+      "pid": "118713"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000075.h5",
+      "label": 1,
+      "pid": "118713"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000076.h5",
+      "label": 0,
+      "pid": "118713"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9729.h5",
+      "label": 1,
+      "pid": "119743"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9728.h5",
+      "label": 1,
+      "pid": "119743"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9727.h5",
+      "label": 1,
+      "pid": "119743"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10402.h5",
+      "label": 1,
+      "pid": "119839"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10403.h5",
+      "label": 1,
+      "pid": "119839"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10404.h5",
+      "label": 0,
+      "pid": "119839"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9390.h5",
+      "label": 1,
+      "pid": "119911"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10892.h5",
+      "label": 1,
+      "pid": "120056"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10893.h5",
+      "label": 0,
+      "pid": "120056"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11326.h5",
+      "label": 1,
+      "pid": "120289"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11327.h5",
+      "label": 1,
+      "pid": "120289"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10860.h5",
+      "label": 1,
+      "pid": "120410"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10876.h5",
+      "label": 1,
+      "pid": "120410"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10653.h5",
+      "label": 1,
+      "pid": "120410"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10654.h5",
+      "label": 0,
+      "pid": "120410"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9747.h5",
+      "label": 1,
+      "pid": "120701"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9746.h5",
+      "label": 1,
+      "pid": "120701"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9745.h5",
+      "label": 1,
+      "pid": "120701"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11303.h5",
+      "label": 1,
+      "pid": "120707"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11304.h5",
+      "label": 1,
+      "pid": "120707"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11305.h5",
+      "label": 0,
+      "pid": "120707"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11306.h5",
+      "label": 1,
+      "pid": "120707"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000240.h5",
+      "label": 1,
+      "pid": "120730"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000241.h5",
+      "label": 1,
+      "pid": "120730"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000242.h5",
+      "label": 0,
+      "pid": "120730"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9808.h5",
+      "label": 1,
+      "pid": "120907"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9953.h5",
+      "label": 1,
+      "pid": "120907"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000125.h5",
+      "label": 1,
+      "pid": "121004"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000126.h5",
+      "label": 1,
+      "pid": "121004"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000127.h5",
+      "label": 1,
+      "pid": "121004"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9732.h5",
+      "label": 1,
+      "pid": "121073"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9731.h5",
+      "label": 1,
+      "pid": "121073"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9730.h5",
+      "label": 0,
+      "pid": "121073"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11010.h5",
+      "label": 1,
+      "pid": "121169"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11011.h5",
+      "label": 0,
+      "pid": "121169"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11012.h5",
+      "label": 0,
+      "pid": "121169"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11438.h5",
+      "label": 1,
+      "pid": "121852"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11191.h5",
+      "label": 1,
+      "pid": "121893"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11192.h5",
+      "label": 1,
+      "pid": "121893"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11193.h5",
+      "label": 0,
+      "pid": "121893"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10149.h5",
+      "label": 1,
+      "pid": "121895"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10148.h5",
+      "label": 1,
+      "pid": "121895"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10147.h5",
+      "label": 0,
+      "pid": "121895"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11323.h5",
+      "label": 1,
+      "pid": "121999"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11324.h5",
+      "label": 1,
+      "pid": "121999"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11325.h5",
+      "label": 0,
+      "pid": "121999"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9461.h5",
+      "label": 1,
+      "pid": "122117"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9460.h5",
+      "label": 1,
+      "pid": "122117"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9459.h5",
+      "label": 1,
+      "pid": "122117"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000131.h5",
+      "label": 1,
+      "pid": "122226"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000132.h5",
+      "label": 1,
+      "pid": "122226"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000133.h5",
+      "label": 0,
+      "pid": "122226"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11001.h5",
+      "label": 1,
+      "pid": "122590"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11002.h5",
+      "label": 0,
+      "pid": "122590"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11374.h5",
+      "label": 1,
+      "pid": "122786"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11375.h5",
+      "label": 1,
+      "pid": "122786"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11376.h5",
+      "label": 0,
+      "pid": "122786"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10872.h5",
+      "label": 1,
+      "pid": "123066"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10873.h5",
+      "label": 0,
+      "pid": "123066"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10874.h5",
+      "label": 1,
+      "pid": "123066"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11124.h5",
+      "label": 1,
+      "pid": "123067"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11125.h5",
+      "label": 1,
+      "pid": "123067"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11126.h5",
+      "label": 0,
+      "pid": "123067"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10858.h5",
+      "label": 0,
+      "pid": "123072"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10859.h5",
+      "label": 1,
+      "pid": "123072"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000120.h5",
+      "label": 1,
+      "pid": "123324"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000121.h5",
+      "label": 1,
+      "pid": "123324"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10171.h5",
+      "label": 1,
+      "pid": "123515"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10366.h5",
+      "label": 0,
+      "pid": "123515"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10505.h5",
+      "label": 1,
+      "pid": "123810"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10506.h5",
+      "label": 1,
+      "pid": "123810"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10507.h5",
+      "label": 0,
+      "pid": "123810"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11328.h5",
+      "label": 1,
+      "pid": "123944"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11329.h5",
+      "label": 0,
+      "pid": "123944"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11330.h5",
+      "label": 0,
+      "pid": "123944"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10419.h5",
+      "label": 1,
+      "pid": "124323"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10420.h5",
+      "label": 1,
+      "pid": "124323"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10514.h5",
+      "label": 1,
+      "pid": "124323"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000065.h5",
+      "label": 1,
+      "pid": "124998"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000066.h5",
+      "label": 1,
+      "pid": "124998"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000067.h5",
+      "label": 0,
+      "pid": "124998"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000253.h5",
+      "label": 1,
+      "pid": "125070"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000254.h5",
+      "label": 1,
+      "pid": "125070"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000255.h5",
+      "label": 0,
+      "pid": "125070"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11388.h5",
+      "label": 1,
+      "pid": "125176"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11389.h5",
+      "label": 1,
+      "pid": "125176"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11390.h5",
+      "label": 0,
+      "pid": "125176"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11391.h5",
+      "label": 1,
+      "pid": "125176"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11460.h5",
+      "label": 1,
+      "pid": "125727"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11461.h5",
+      "label": 0,
+      "pid": "125727"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000163.h5",
+      "label": 1,
+      "pid": "126114"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000164.h5",
+      "label": 0,
+      "pid": "126114"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000165.h5",
+      "label": 1,
+      "pid": "126114"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000090.h5",
+      "label": 1,
+      "pid": "126576"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000091.h5",
+      "label": 1,
+      "pid": "126576"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000092.h5",
+      "label": 0,
+      "pid": "126576"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10417.h5",
+      "label": 1,
+      "pid": "126792"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10418.h5",
+      "label": 0,
+      "pid": "126792"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11233.h5",
+      "label": 1,
+      "pid": "126823"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11234.h5",
+      "label": 1,
+      "pid": "126823"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11235.h5",
+      "label": 0,
+      "pid": "126823"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000266.h5",
+      "label": 1,
+      "pid": "126955"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000267.h5",
+      "label": 1,
+      "pid": "126955"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000268.h5",
+      "label": 0,
+      "pid": "126955"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10887.h5",
+      "label": 1,
+      "pid": "127242"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10672.h5",
+      "label": 1,
+      "pid": "127242"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10673.h5",
+      "label": 0,
+      "pid": "127242"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10865.h5",
+      "label": 1,
+      "pid": "127619"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10866.h5",
+      "label": 0,
+      "pid": "127619"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000062.h5",
+      "label": 1,
+      "pid": "127923"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000063.h5",
+      "label": 1,
+      "pid": "127923"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000064.h5",
+      "label": 0,
+      "pid": "127923"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000259.h5",
+      "label": 1,
+      "pid": "128156"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000260.h5",
+      "label": 1,
+      "pid": "128156"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000261.h5",
+      "label": 0,
+      "pid": "128156"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9984.h5",
+      "label": 1,
+      "pid": "128443"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9983.h5",
+      "label": 1,
+      "pid": "128443"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9982.h5",
+      "label": 1,
+      "pid": "128443"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11236.h5",
+      "label": 1,
+      "pid": "128544"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11237.h5",
+      "label": 1,
+      "pid": "128544"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11238.h5",
+      "label": 1,
+      "pid": "128544"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11239.h5",
+      "label": 1,
+      "pid": "128544"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11240.h5",
+      "label": 1,
+      "pid": "128544"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000185.h5",
+      "label": 1,
+      "pid": "128669"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000186.h5",
+      "label": 1,
+      "pid": "128669"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000187.h5",
+      "label": 0,
+      "pid": "128669"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11030.h5",
+      "label": 1,
+      "pid": "128899"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11031.h5",
+      "label": 1,
+      "pid": "128899"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11032.h5",
+      "label": 1,
+      "pid": "128899"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11033.h5",
+      "label": 1,
+      "pid": "128899"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11034.h5",
+      "label": 1,
+      "pid": "128899"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11121.h5",
+      "label": 1,
+      "pid": "128930"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11122.h5",
+      "label": 1,
+      "pid": "128930"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11123.h5",
+      "label": 0,
+      "pid": "128930"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11023.h5",
+      "label": 1,
+      "pid": "129035"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11024.h5",
+      "label": 1,
+      "pid": "129035"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11025.h5",
+      "label": 0,
+      "pid": "129035"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000010.h5",
+      "label": 1,
+      "pid": "129230"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000011.h5",
+      "label": 0,
+      "pid": "129230"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000012.h5",
+      "label": 1,
+      "pid": "129230"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000013.h5",
+      "label": 0,
+      "pid": "129230"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11188.h5",
+      "label": 1,
+      "pid": "129534"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11189.h5",
+      "label": 0,
+      "pid": "129534"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11190.h5",
+      "label": 0,
+      "pid": "129534"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11292.h5",
+      "label": 1,
+      "pid": "129695"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11293.h5",
+      "label": 1,
+      "pid": "129695"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/11294.h5",
+      "label": 0,
+      "pid": "129695"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10405.h5",
+      "label": 1,
+      "pid": "130162"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10406.h5",
+      "label": 1,
+      "pid": "130162"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10407.h5",
+      "label": 0,
+      "pid": "130162"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000256.h5",
+      "label": 1,
+      "pid": "130315"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000257.h5",
+      "label": 0,
+      "pid": "130315"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000017.h5",
+      "label": 1,
+      "pid": "130467"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000018.h5",
+      "label": 1,
+      "pid": "130467"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10122.h5",
+      "label": 1,
+      "pid": "131174"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10121.h5",
+      "label": 1,
+      "pid": "131174"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10120.h5",
+      "label": 0,
+      "pid": "131174"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11377.h5",
+      "label": 1,
+      "pid": "131542"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11378.h5",
+      "label": 0,
+      "pid": "131542"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10526.h5",
+      "label": 1,
+      "pid": "131611"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10497.h5",
+      "label": 1,
+      "pid": "131611"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10498.h5",
+      "label": 0,
+      "pid": "131611"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9529.h5",
+      "label": 1,
+      "pid": "131910"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9528.h5",
+      "label": 1,
+      "pid": "131910"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9527.h5",
+      "label": 0,
+      "pid": "131910"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10629.h5",
+      "label": 1,
+      "pid": "131963"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10931.h5",
+      "label": 1,
+      "pid": "131963"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10630.h5",
+      "label": 1,
+      "pid": "131963"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10930.h5",
+      "label": 1,
+      "pid": "131963"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10134.h5",
+      "label": 1,
+      "pid": "132386"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10133.h5",
+      "label": 1,
+      "pid": "132386"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10132.h5",
+      "label": 0,
+      "pid": "132386"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11279.h5",
+      "label": 1,
+      "pid": "133231"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11280.h5",
+      "label": 1,
+      "pid": "133231"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11281.h5",
+      "label": 1,
+      "pid": "133231"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9668.h5",
+      "label": 1,
+      "pid": "133416"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9667.h5",
+      "label": 1,
+      "pid": "133416"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9666.h5",
+      "label": 0,
+      "pid": "133416"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000181.h5",
+      "label": 1,
+      "pid": "133786"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000182.h5",
+      "label": 1,
+      "pid": "133786"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000183.h5",
+      "label": 0,
+      "pid": "133786"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000184.h5",
+      "label": 1,
+      "pid": "133786"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9967.h5",
+      "label": 1,
+      "pid": "133887"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9966.h5",
+      "label": 1,
+      "pid": "133887"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9965.h5",
+      "label": 1,
+      "pid": "133887"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11229.h5",
+      "label": 1,
+      "pid": "134082"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000229.h5",
+      "label": 1,
+      "pid": "134257"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000230.h5",
+      "label": 1,
+      "pid": "134257"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000231.h5",
+      "label": 1,
+      "pid": "134257"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10636.h5",
+      "label": 1,
+      "pid": "134371"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10850.h5",
+      "label": 0,
+      "pid": "134371"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10851.h5",
+      "label": 1,
+      "pid": "134371"
+    }
+  ],
+  "val": [
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9545.h5",
+      "label": 1,
+      "pid": "100242"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9665.h5",
+      "label": 1,
+      "pid": "101066"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9664.h5",
+      "label": 0,
+      "pid": "101066"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000095.h5",
+      "label": 1,
+      "pid": "102161"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000096.h5",
+      "label": 1,
+      "pid": "102161"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000097.h5",
+      "label": 0,
+      "pid": "102161"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000178.h5",
+      "label": 1,
+      "pid": "104960"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000179.h5",
+      "label": 1,
+      "pid": "104960"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000180.h5",
+      "label": 1,
+      "pid": "104960"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000045.h5",
+      "label": 1,
+      "pid": "105677"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000046.h5",
+      "label": 1,
+      "pid": "105677"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000047.h5",
+      "label": 0,
+      "pid": "105677"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11471.h5",
+      "label": 1,
+      "pid": "106246"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/11472.h5",
+      "label": 0,
+      "pid": "106246"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11458.h5",
+      "label": 1,
+      "pid": "106498"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11459.h5",
+      "label": 0,
+      "pid": "106498"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9551.h5",
+      "label": 0,
+      "pid": "106507"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9550.h5",
+      "label": 1,
+      "pid": "106507"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9549.h5",
+      "label": 1,
+      "pid": "106507"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10128.h5",
+      "label": 1,
+      "pid": "106591"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000107.h5",
+      "label": 1,
+      "pid": "109198"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000108.h5",
+      "label": 1,
+      "pid": "109198"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000109.h5",
+      "label": 0,
+      "pid": "109198"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000110.h5",
+      "label": 1,
+      "pid": "109198"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11108.h5",
+      "label": 0,
+      "pid": "109573"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11109.h5",
+      "label": 1,
+      "pid": "109573"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11047.h5",
+      "label": 1,
+      "pid": "109573"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9707.h5",
+      "label": 1,
+      "pid": "110898"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9706.h5",
+      "label": 1,
+      "pid": "110898"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10620.h5",
+      "label": 1,
+      "pid": "111833"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10621.h5",
+      "label": 0,
+      "pid": "111833"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000068.h5",
+      "label": 1,
+      "pid": "112802"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000069.h5",
+      "label": 1,
+      "pid": "112802"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000070.h5",
+      "label": 1,
+      "pid": "112802"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11462.h5",
+      "label": 1,
+      "pid": "113814"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11463.h5",
+      "label": 1,
+      "pid": "113814"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11464.h5",
+      "label": 0,
+      "pid": "113814"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000038.h5",
+      "label": 1,
+      "pid": "114746"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000039.h5",
+      "label": 1,
+      "pid": "114746"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000040.h5",
+      "label": 0,
+      "pid": "114746"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000219.h5",
+      "label": 1,
+      "pid": "116837"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000220.h5",
+      "label": 1,
+      "pid": "116837"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000221.h5",
+      "label": 1,
+      "pid": "116837"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000222.h5",
+      "label": 0,
+      "pid": "116837"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11342.h5",
+      "label": 1,
+      "pid": "118323"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11343.h5",
+      "label": 1,
+      "pid": "118323"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11344.h5",
+      "label": 1,
+      "pid": "118323"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11381.h5",
+      "label": 0,
+      "pid": "118464"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11382.h5",
+      "label": 1,
+      "pid": "118464"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11383.h5",
+      "label": 1,
+      "pid": "118464"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10025.h5",
+      "label": 1,
+      "pid": "121580"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9992.h5",
+      "label": 1,
+      "pid": "121580"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9991.h5",
+      "label": 1,
+      "pid": "121580"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9466.h5",
+      "label": 1,
+      "pid": "121823"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9465.h5",
+      "label": 1,
+      "pid": "121823"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9464.h5",
+      "label": 0,
+      "pid": "121823"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9389.h5",
+      "label": 1,
+      "pid": "123629"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9388.h5",
+      "label": 1,
+      "pid": "123629"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9387.h5",
+      "label": 0,
+      "pid": "123629"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000289.h5",
+      "label": 1,
+      "pid": "125649"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000290.h5",
+      "label": 1,
+      "pid": "125649"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000291.h5",
+      "label": 1,
+      "pid": "125649"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000292.h5",
+      "label": 1,
+      "pid": "125649"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11784.h5",
+      "label": 1,
+      "pid": "126244"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11783.h5",
+      "label": 0,
+      "pid": "126244"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000077.h5",
+      "label": 1,
+      "pid": "126977"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000078.h5",
+      "label": 1,
+      "pid": "126977"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000079-001.h5",
+      "label": 0,
+      "pid": "126977"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11285.h5",
+      "label": 1,
+      "pid": "129511"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11286.h5",
+      "label": 1,
+      "pid": "129511"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11287.h5",
+      "label": 0,
+      "pid": "129511"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9479.h5",
+      "label": 1,
+      "pid": "129553"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9478.h5",
+      "label": 1,
+      "pid": "129553"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9477.h5",
+      "label": 1,
+      "pid": "129553"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/9476.h5",
+      "label": 0,
+      "pid": "129553"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10165.h5",
+      "label": 1,
+      "pid": "130008"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10164.h5",
+      "label": 1,
+      "pid": "130008"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10163.h5",
+      "label": 0,
+      "pid": "130008"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000166.h5",
+      "label": 1,
+      "pid": "130630"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000167.h5",
+      "label": 1,
+      "pid": "130630"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000168.h5",
+      "label": 0,
+      "pid": "130630"
+    }
+  ],
+  "test": [
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10894.h5",
+      "label": 1,
+      "pid": "100703"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10895.h5",
+      "label": 0,
+      "pid": "100703"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11788.h5",
+      "label": 1,
+      "pid": "100881"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11787.h5",
+      "label": 1,
+      "pid": "100881"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11786.h5",
+      "label": 1,
+      "pid": "100881"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11785.h5",
+      "label": 0,
+      "pid": "100881"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10136.h5",
+      "label": 1,
+      "pid": "101192"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10135.h5",
+      "label": 0,
+      "pid": "101192"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000151.h5",
+      "label": 1,
+      "pid": "101834"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000152.h5",
+      "label": 1,
+      "pid": "101834"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000153.h5",
+      "label": 0,
+      "pid": "101834"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10499.h5",
+      "label": 1,
+      "pid": "102537"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10500.h5",
+      "label": 1,
+      "pid": "102537"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10501.h5",
+      "label": 0,
+      "pid": "102537"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10856.h5",
+      "label": 1,
+      "pid": "103189"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/10857.h5",
+      "label": 1,
+      "pid": "103189"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000293.h5",
+      "label": 1,
+      "pid": "103359"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000294.h5",
+      "label": 1,
+      "pid": "103359"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000295.h5",
+      "label": 0,
+      "pid": "103359"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10880.h5",
+      "label": 1,
+      "pid": "104182"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10881.h5",
+      "label": 1,
+      "pid": "104182"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10882.h5",
+      "label": 0,
+      "pid": "104182"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10661.h5",
+      "label": 0,
+      "pid": "104182"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10883.h5",
+      "label": 0,
+      "pid": "104182"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10124.h5",
+      "label": 1,
+      "pid": "104778"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/10123.h5",
+      "label": 0,
+      "pid": "104778"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9757.h5",
+      "label": 1,
+      "pid": "105051"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9756.h5",
+      "label": 1,
+      "pid": "105051"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/9755.h5",
+      "label": 0,
+      "pid": "105051"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/9972.h5",
+      "label": 1,
+      "pid": "105352"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10028.h5",
+      "label": 1,
+      "pid": "105352"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10027.h5",
+      "label": 1,
+      "pid": "105352"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/10026.h5",
+      "label": 1,
+      "pid": "105352"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9482.h5",
+      "label": 1,
+      "pid": "105562"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9481.h5",
+      "label": 1,
+      "pid": "105562"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9480.h5",
+      "label": 0,
+      "pid": "105562"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000056.h5",
+      "label": 1,
+      "pid": "106926"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000057.h5",
+      "label": 1,
+      "pid": "106926"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000058.h5",
+      "label": 0,
+      "pid": "106926"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/9939.h5",
+      "label": 1,
+      "pid": "107434"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/9949.h5",
+      "label": 1,
+      "pid": "107434"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/9948.h5",
+      "label": 0,
+      "pid": "107434"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11230.h5",
+      "label": 1,
+      "pid": "107610"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11231.h5",
+      "label": 1,
+      "pid": "107610"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11232.h5",
+      "label": 0,
+      "pid": "107610"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9497.h5",
+      "label": 1,
+      "pid": "108797"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9496.h5",
+      "label": 1,
+      "pid": "108797"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9495.h5",
+      "label": 0,
+      "pid": "108797"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10021.h5",
+      "label": 1,
+      "pid": "109025"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10987.h5",
+      "label": 1,
+      "pid": "109259"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10988.h5",
+      "label": 1,
+      "pid": "109259"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10989.h5",
+      "label": 1,
+      "pid": "109259"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10990.h5",
+      "label": 0,
+      "pid": "109259"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11263.h5",
+      "label": 1,
+      "pid": "110217"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11264.h5",
+      "label": 1,
+      "pid": "110217"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11265.h5",
+      "label": 1,
+      "pid": "110217"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11266.h5",
+      "label": 0,
+      "pid": "110217"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000029.h5",
+      "label": 1,
+      "pid": "110987"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000030.h5",
+      "label": 1,
+      "pid": "110987"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000031.h5",
+      "label": 0,
+      "pid": "110987"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000223.h5",
+      "label": 1,
+      "pid": "112041"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000224.h5",
+      "label": 1,
+      "pid": "112041"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000225.h5",
+      "label": 0,
+      "pid": "112041"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10886.h5",
+      "label": 1,
+      "pid": "112261"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10669.h5",
+      "label": 1,
+      "pid": "112261"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10670.h5",
+      "label": 0,
+      "pid": "112261"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10381.h5",
+      "label": 1,
+      "pid": "113918"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10382.h5",
+      "label": 1,
+      "pid": "113918"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10383.h5",
+      "label": 0,
+      "pid": "113918"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10384.h5",
+      "label": 1,
+      "pid": "113918"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10411.h5",
+      "label": 1,
+      "pid": "114057"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10412.h5",
+      "label": 1,
+      "pid": "114057"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10513.h5",
+      "label": 0,
+      "pid": "114057"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11104.h5",
+      "label": 1,
+      "pid": "115110"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000134.h5",
+      "label": 1,
+      "pid": "115571"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000135.h5",
+      "label": 1,
+      "pid": "115571"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000136.h5",
+      "label": 1,
+      "pid": "115571"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000137.h5",
+      "label": 0,
+      "pid": "115571"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10015.h5",
+      "label": 1,
+      "pid": "116289"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9741.h5",
+      "label": 1,
+      "pid": "116597"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9740.h5",
+      "label": 1,
+      "pid": "116597"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/9739.h5",
+      "label": 0,
+      "pid": "116597"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000159.h5",
+      "label": 1,
+      "pid": "117373"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11345.h5",
+      "label": 1,
+      "pid": "117612"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11346.h5",
+      "label": 1,
+      "pid": "117612"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/11347.h5",
+      "label": 0,
+      "pid": "117612"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000113.h5",
+      "label": 1,
+      "pid": "117627"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000114.h5",
+      "label": 0,
+      "pid": "117627"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000115.h5",
+      "label": 0,
+      "pid": "117627"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000116.h5",
+      "label": 1,
+      "pid": "117627"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9402.h5",
+      "label": 1,
+      "pid": "117939"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9401.h5",
+      "label": 1,
+      "pid": "117939"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/9400.h5",
+      "label": 1,
+      "pid": "117939"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9723.h5",
+      "label": 1,
+      "pid": "117966"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9722.h5",
+      "label": 0,
+      "pid": "117966"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000085-001.h5",
+      "label": 0,
+      "pid": "118672"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000086.h5",
+      "label": 1,
+      "pid": "118672"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/features_conch_v15/10852.h5",
+      "label": 1,
+      "pid": "120969"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/features_conch_v15/10643.h5",
+      "label": 0,
+      "pid": "120969"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10111.h5",
+      "label": 1,
+      "pid": "121099"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10110.h5",
+      "label": 1,
+      "pid": "121099"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000123.h5",
+      "label": 1,
+      "pid": "121370"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000124.h5",
+      "label": 1,
+      "pid": "121370"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11114.h5",
+      "label": 1,
+      "pid": "122794"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11115.h5",
+      "label": 1,
+      "pid": "122794"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11116.h5",
+      "label": 0,
+      "pid": "122794"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11351.h5",
+      "label": 1,
+      "pid": "124864"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11352.h5",
+      "label": 1,
+      "pid": "124864"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/11353.h5",
+      "label": 0,
+      "pid": "124864"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11414.h5",
+      "label": 1,
+      "pid": "125704"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11415.h5",
+      "label": 1,
+      "pid": "125704"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/features_conch_v15/11416.h5",
+      "label": 0,
+      "pid": "125704"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10162.h5",
+      "label": 1,
+      "pid": "126657"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10161.h5",
+      "label": 1,
+      "pid": "126657"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/10160.h5",
+      "label": 0,
+      "pid": "126657"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11112.h5",
+      "label": 1,
+      "pid": "129627"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11113.h5",
+      "label": 1,
+      "pid": "129627"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/11053.h5",
+      "label": 0,
+      "pid": "129627"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10674.h5",
+      "label": 1,
+      "pid": "131005"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10675.h5",
+      "label": 1,
+      "pid": "131005"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch2_7x/20x_256px_0px_overlap/features_conch_v15/10676.h5",
+      "label": 0,
+      "pid": "131005"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9702.h5",
+      "label": 1,
+      "pid": "131237"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9701.h5",
+      "label": 1,
+      "pid": "131237"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/9700.h5",
+      "label": 0,
+      "pid": "131237"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000142.h5",
+      "label": 1,
+      "pid": "131397"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000143.h5",
+      "label": 1,
+      "pid": "131397"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000144.h5",
+      "label": 0,
+      "pid": "131397"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10492.h5",
+      "label": 1,
+      "pid": "131423"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10493.h5",
+      "label": 0,
+      "pid": "131423"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10494.h5",
+      "label": 1,
+      "pid": "131423"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10495.h5",
+      "label": 0,
+      "pid": "131423"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/features_conch_v15/NLSI0000277.h5",
+      "label": 1,
+      "pid": "132606"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/10408.h5",
+      "label": 1,
+      "pid": "133934"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/10409.h5",
+      "label": 1,
+      "pid": "133934"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/features_conch_v15/10410.h5",
+      "label": 0,
+      "pid": "133934"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10378.h5",
+      "label": 1,
+      "pid": "134491"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10379.h5",
+      "label": 1,
+      "pid": "134491"
+    },
+    {
+      "slide_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch1_7x/20x_256px_0px_overlap/features_conch_v15/10380.h5",
+      "label": 1,
+      "pid": "134491"
+    }
+  ]
+}
