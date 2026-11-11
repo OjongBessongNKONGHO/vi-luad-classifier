@@ -26,16 +26,16 @@ Features are extracted from 1,225 NLST whole-slide images across 9 batches using
 
 ## Structure
 
-src/
-train_eval.py # Training loop, 5-fold CV, metrics, logging
-dataset.py # SlideGraphDataset: reads .h5, builds spatial graphs
-model.py # GraphPerceiverMIL architecture
-aggr.py # GMT pooling
-ajpa2024/ # Reference implementation (Tsing et al.)
-splits_positive_control/ # TUMOR vs NONTUMOR splits
-splits_filtered/ # VI classification splits
-experiments/shards/ # Results CSVs
-
+| Path | Description |
+|------|-------------|
+| `src/train_eval.py` | Training loop, 5-fold CV, metrics, logging |
+| `src/dataset.py` | SlideGraphDataset: reads .h5, builds spatial graphs |
+| `src/model.py` | GraphPerceiverMIL architecture |
+| `src/aggr.py` | GMT pooling |
+| `ajpa2024/` | Reference implementation (Tsing et al.) |
+| `splits_positive_control/` | TUMOR vs NONTUMOR splits |
+| `splits_filtered/` | VI classification splits |
+| `experiments/shards/` | Results CSVs |
 
 ## Usage
 
