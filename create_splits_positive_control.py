@@ -29,10 +29,10 @@ def main():
         next(reader)
         for row in reader:
             row = [field.strip().strip('"') for field in row]
-            pid, filename, vi_label = row[1], row[2].replace(".svs", ""), row[3]
-            if vi_label == "NONTUMOR":
+            pid, filename, sp_label = row[1], row[2].replace(".svs", ""), row[4]
+            if sp_label == "NONSPTUMOR":
                 label = 0
-            elif vi_label in ("VITUMOR", "NONVITUMOR"):
+            elif sp_label == "SPTUMOR":
                 label = 1
             else:
                 continue
@@ -43,8 +43,8 @@ def main():
             slides.append({"slide_path": feature_path, "label": label, "pid": pid})
 
     print(f"Loaded {len(slides)} slides")
-    print(f"  TUMOR (1): {sum(s['label']==1 for s in slides)}")
-    print(f"  NONTUMOR (0): {sum(s['label']==0 for s in slides)}")
+    print(f"  SPTUMOR (1): {sum(s['label']==1 for s in slides)}")
+    print(f"  NONSPTUMOR (0): {sum(s['label']==0 for s in slides)}")
 
     patient_slides = defaultdict(list)
     for s in slides:
@@ -52,7 +52,7 @@ def main():
 
     patients = sorted(patient_slides.keys())
     patient_labels = np.array([1 if any(s["label"]==1 for s in patient_slides[p]) else 0 for p in patients])
-    print(f"\n{len(patients)} patients ({(patient_labels==1).sum()} TUMOR / {(patient_labels==0).sum()} NONTUMOR)")
+    print(f"\n{len(patients)} patients ({(patient_labels==1).sum()} SPTUMOR / {(patient_labels==0).sum()} NONSPTUMOR)")
 
     skf = StratifiedKFold(n_splits=N_FOLDS, shuffle=True, random_state=SEED)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -84,7 +84,7 @@ def main():
             n0 = sum(r["label"]==0 for r in split[part])
             n1 = sum(r["label"]==1 for r in split[part])
             n_pat = len(set(r["pid"] for r in split[part]))
-            print(f"  Fold {fold_idx} {part:>5}: {len(split[part]):>4} slides ({n0} NONTUMOR / {n1} TUMOR), {n_pat} patients")
+            print(f"  Fold {fold_idx} {part:>5}: {len(split[part]):>4} slides ({n0} NONSPTUMOR / {n1} SPTUMOR), {n_pat} patients")
 
         with open(os.path.join(OUTPUT_DIR, f"fold_{fold_idx}.json"), "w") as f:
             json.dump(split, f, indent=2)
