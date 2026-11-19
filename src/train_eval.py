@@ -43,6 +43,7 @@ import torch_geometric.transforms as T
 sys.path.insert(0, os.path.dirname(__file__))
 from dataset import SlideGraphDataset
 from model import GraphPerceiverMIL
+from model_abmil import ABMIL
 
 
 # ---------------------------------------------------------------------------
@@ -167,17 +168,25 @@ def eval_epoch(model, loader, device):
 
 
 def build_model(args, device):
-    return GraphPerceiverMIL(
-        input_dim=args.input_dim,
-        emb_dim=args.emb_dim,
-        num_gnn_layers=args.num_gnn_layers,
-        gmt_k=args.gmt_k,
-        gmt_heads=args.gmt_heads,
-        gmt_encoder_blocks=args.gmt_encoder_blocks,
-        drop_ratio=args.drop_ratio,
-        num_classes=2,
-        jk=args.jk,
-    ).to(device)
+    if args.model == "abmil":
+        return ABMIL(
+            input_dim=args.input_dim,
+            hidden_dim=args.emb_dim,
+            dropout=args.drop_ratio,
+            num_classes=2,
+        ).to(device)
+    else:
+        return GraphPerceiverMIL(
+            input_dim=args.input_dim,
+            emb_dim=args.emb_dim,
+            num_gnn_layers=args.num_gnn_layers,
+            gmt_k=args.gmt_k,
+            gmt_heads=args.gmt_heads,
+            gmt_encoder_blocks=args.gmt_encoder_blocks,
+            drop_ratio=args.drop_ratio,
+            num_classes=2,
+            jk=args.jk,
+        ).to(device)
 
 
 def train_one_seed(fold_idx, seed, loaders, pos_weight, args, device):
@@ -198,7 +207,7 @@ def train_one_seed(fold_idx, seed, loaders, pos_weight, args, device):
         label_smoothing=args.label_smoothing,
     )
 
-    print(f"\n  [seed {seed}]  GraphPerceiverMIL: {n_params:,} trainable params")
+    print(f"\n  [seed {seed}]  {model.__class__.__name__}: {n_params:,} trainable params")
 
     ckpt_path = os.path.join(args.checkpoint_dir,
                              f"fold_{fold_idx}_seed_{seed}.pth")
@@ -295,10 +304,11 @@ def train_fold(fold_idx, split, args, device):
     print(f"FOLD {fold_idx}  —  {n_train} train / {n_val} val / {n_test} test slides")
     print(f"{'=' * 72}")
 
-    transform = T.ToSparseTensor(remove_edge_index=False)
-    train_ds = SlideGraphDataset(split["train"], transform=transform)
-    val_ds = SlideGraphDataset(split["val"], transform=transform)
-    test_ds = SlideGraphDataset(split["test"], transform=transform)
+    use_graph = (args.model == "graph_perceiver")
+    transform = T.ToSparseTensor(remove_edge_index=False) if use_graph else None
+    train_ds = SlideGraphDataset(split["train"], transform=transform, build_graph=use_graph)
+    val_ds = SlideGraphDataset(split["val"], transform=transform, build_graph=use_graph)
+    test_ds = SlideGraphDataset(split["test"], transform=transform, build_graph=use_graph)
 
     loaders = (
         DataLoader(train_ds, batch_size=args.batch_size, shuffle=True,
@@ -414,6 +424,9 @@ def parse_args():
     p.add_argument("--results_csv", type=str, default="experiments/results.csv")
     p.add_argument("--config_id", type=str, default="graph_perceiver",
                    help="Label for this configuration in results.csv")
+    p.add_argument("--model", type=str, default="graph_perceiver",
+                   choices=["graph_perceiver", "abmil"],
+                   help="Model architecture to use")
     p.add_argument("--n_folds", type=int, default=5)
     p.add_argument("--folds", type=str, default=None,
                    help="Comma-separated fold subset, e.g. '0,1'. Default: all.")

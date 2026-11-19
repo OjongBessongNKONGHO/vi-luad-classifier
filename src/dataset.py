@@ -1,11 +1,10 @@
 """
-SlideGraphDataset: loads pre-extracted CONCH v1.5 patch embeddings from .h5,
-builds a spatial 8-connectivity graph, returns a PyG Data object.
+SlideGraphDataset: loads pre-extracted patch embeddings from .h5,
+optionally builds a spatial 8-connectivity graph, returns a PyG Data object.
 
-Adapted from Tsing's dataset.py for .h5 files (CONCH 768-dim features).
 Each .h5 file has:
-    features  : (N, 768) float32
-    coords    : (N, 2)   int64
+    features  : (N, D) float32  (768 for CONCH, 1536 for UNI v2)
+    coords    : (N, 2) int64
 """
 
 import h5py
@@ -39,9 +38,11 @@ def build_adjacency(coords: torch.Tensor) -> torch.Tensor:
 class SlideGraphDataset(Dataset):
     """PyG dataset for WSI patch-feature graphs from .h5 files."""
 
-    def __init__(self, slide_records, transform=None, pre_transform=None):
+    def __init__(self, slide_records, transform=None, pre_transform=None,
+                 build_graph=True):
         super().__init__(root=None, transform=transform, pre_transform=pre_transform)
         self.records = slide_records
+        self.build_graph = build_graph
 
     def len(self):
         return len(self.records)
@@ -50,10 +51,13 @@ class SlideGraphDataset(Dataset):
         rec = self.records[idx]
 
         with h5py.File(rec["slide_path"], "r") as f:
-            features = torch.from_numpy(f["features"][:]).float()   # (N, 768)
-            coords = torch.from_numpy(f["coords"][:]).long()        # (N, 2)
+            features = torch.from_numpy(f["features"][:]).float()
+            coords = torch.from_numpy(f["coords"][:]).long()
 
-        edge_index = build_adjacency(coords)
+        if self.build_graph:
+            edge_index = build_adjacency(coords)
+        else:
+            edge_index = torch.empty((2, 0), dtype=torch.long)
 
         data = Data(
             x=features,
