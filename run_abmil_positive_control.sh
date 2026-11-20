@@ -19,7 +19,6 @@ export TORCH_HOME="$PROJ/.cache/torch"
 export HF_HOME="$PROJ/.cache/hf"
 mkdir -p "$TORCH_HOME" "$HF_HOME"
 
-module load python3/3.12.4
 source /restricted/projectnb/luadfrp/tsing/vi-luad-classifier/env/bin/activate
 export PYTHONPATH="$HOME/vi-experiment/lib:${PYTHONPATH:-}"
 
