@@ -8,7 +8,8 @@
 #$ -j y
 #$ -m ea
 
-source /restricted/projectnb/luadfrp/tsing/vi-luad-classifier/env/bin/activate
+module load cuda/12.2
+conda activate /rprojectnb/luadfrp/onkongho/.conda/envs/trident
 
 cd /usr2/collab/onkongho/vi-experiment
 

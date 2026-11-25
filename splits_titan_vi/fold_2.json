@@ -1,0 +1,1820 @@
+{
+  "train": [
+    {
+      "slide_id": "NLSI0000019",
+      "patient_id": "104815",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000019.h5"
+    },
+    {
+      "slide_id": "11784",
+      "patient_id": "126244",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11784.h5"
+    },
+    {
+      "slide_id": "NLSI0000017",
+      "patient_id": "130467",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000017.h5"
+    },
+    {
+      "slide_id": "NLSI0000018",
+      "patient_id": "130467",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000018.h5"
+    },
+    {
+      "slide_id": "NLSI0000526",
+      "patient_id": "100147",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000526.h5"
+    },
+    {
+      "slide_id": "9545",
+      "patient_id": "100242",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9545.h5"
+    },
+    {
+      "slide_id": "10994",
+      "patient_id": "103621",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10994.h5"
+    },
+    {
+      "slide_id": "10995",
+      "patient_id": "103621",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10995.h5"
+    },
+    {
+      "slide_id": "9757",
+      "patient_id": "105051",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9757.h5"
+    },
+    {
+      "slide_id": "9756",
+      "patient_id": "105051",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9756.h5"
+    },
+    {
+      "slide_id": "11109",
+      "patient_id": "109573",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11109.h5"
+    },
+    {
+      "slide_id": "11047",
+      "patient_id": "109573",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11047.h5"
+    },
+    {
+      "slide_id": "11429",
+      "patient_id": "110196",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11429.h5"
+    },
+    {
+      "slide_id": "11430",
+      "patient_id": "110196",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11430.h5"
+    },
+    {
+      "slide_id": "11456",
+      "patient_id": "110356",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11456.h5"
+    },
+    {
+      "slide_id": "NLSI0000025",
+      "patient_id": "112052",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000025.h5"
+    },
+    {
+      "slide_id": "NLSI0000026",
+      "patient_id": "112052",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000026.h5"
+    },
+    {
+      "slide_id": "NLSI0000270",
+      "patient_id": "112414",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000270.h5"
+    },
+    {
+      "slide_id": "11368",
+      "patient_id": "114103",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11368.h5"
+    },
+    {
+      "slide_id": "11372",
+      "patient_id": "114311",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11372.h5"
+    },
+    {
+      "slide_id": "11373",
+      "patient_id": "114311",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11373.h5"
+    },
+    {
+      "slide_id": "9957",
+      "patient_id": "115020",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9957.h5"
+    },
+    {
+      "slide_id": "NLSI0000134",
+      "patient_id": "115571",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000134.h5"
+    },
+    {
+      "slide_id": "NLSI0000135",
+      "patient_id": "115571",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000135.h5"
+    },
+    {
+      "slide_id": "NLSI0000136",
+      "patient_id": "115571",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000136.h5"
+    },
+    {
+      "slide_id": "11321",
+      "patient_id": "118602",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11321.h5"
+    },
+    {
+      "slide_id": "NLSI0000086",
+      "patient_id": "118672",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000086.h5"
+    },
+    {
+      "slide_id": "11114",
+      "patient_id": "122794",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11114.h5"
+    },
+    {
+      "slide_id": "11115",
+      "patient_id": "122794",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11115.h5"
+    },
+    {
+      "slide_id": "NLSI0000259",
+      "patient_id": "128156",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000259.h5"
+    },
+    {
+      "slide_id": "NLSI0000260",
+      "patient_id": "128156",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000260.h5"
+    },
+    {
+      "slide_id": "NLSI0000277",
+      "patient_id": "132606",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000277.h5"
+    },
+    {
+      "slide_id": "11229",
+      "patient_id": "134082",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11229.h5"
+    },
+    {
+      "slide_id": "NLSI0000229",
+      "patient_id": "134257",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000229.h5"
+    },
+    {
+      "slide_id": "NLSI0000231",
+      "patient_id": "134257",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000231.h5"
+    },
+    {
+      "slide_id": "10025",
+      "patient_id": "121580",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10025.h5"
+    },
+    {
+      "slide_id": "9992",
+      "patient_id": "121580",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9992.h5"
+    },
+    {
+      "slide_id": "9991",
+      "patient_id": "121580",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9991.h5"
+    },
+    {
+      "slide_id": "NLSI0000289",
+      "patient_id": "125649",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000289.h5"
+    },
+    {
+      "slide_id": "NLSI0000290",
+      "patient_id": "125649",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000290.h5"
+    },
+    {
+      "slide_id": "NLSI0000291",
+      "patient_id": "125649",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000291.h5"
+    },
+    {
+      "slide_id": "NLSI0000087",
+      "patient_id": "105142",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000087.h5"
+    },
+    {
+      "slide_id": "NLSI0000088",
+      "patient_id": "105142",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000088.h5"
+    },
+    {
+      "slide_id": "11259",
+      "patient_id": "106063",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11259.h5"
+    },
+    {
+      "slide_id": "11260",
+      "patient_id": "106063",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11260.h5"
+    },
+    {
+      "slide_id": "11262",
+      "patient_id": "106063",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11262.h5"
+    },
+    {
+      "slide_id": "11007",
+      "patient_id": "106194",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11007.h5"
+    },
+    {
+      "slide_id": "11008",
+      "patient_id": "106194",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11008.h5"
+    },
+    {
+      "slide_id": "11230",
+      "patient_id": "107610",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11230.h5"
+    },
+    {
+      "slide_id": "11231",
+      "patient_id": "107610",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11231.h5"
+    },
+    {
+      "slide_id": "10400",
+      "patient_id": "110061",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10400.h5"
+    },
+    {
+      "slide_id": "10401",
+      "patient_id": "110061",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10401.h5"
+    },
+    {
+      "slide_id": "NLSI0000038",
+      "patient_id": "114746",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000038.h5"
+    },
+    {
+      "slide_id": "NLSI0000039",
+      "patient_id": "114746",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000039.h5"
+    },
+    {
+      "slide_id": "10938",
+      "patient_id": "117289",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10938.h5"
+    },
+    {
+      "slide_id": "11323",
+      "patient_id": "121999",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11323.h5"
+    },
+    {
+      "slide_id": "11324",
+      "patient_id": "121999",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11324.h5"
+    },
+    {
+      "slide_id": "11460",
+      "patient_id": "125727",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11460.h5"
+    },
+    {
+      "slide_id": "11121",
+      "patient_id": "128930",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11121.h5"
+    },
+    {
+      "slide_id": "11122",
+      "patient_id": "128930",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11122.h5"
+    },
+    {
+      "slide_id": "11023",
+      "patient_id": "129035",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11023.h5"
+    },
+    {
+      "slide_id": "11024",
+      "patient_id": "129035",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11024.h5"
+    },
+    {
+      "slide_id": "10880",
+      "patient_id": "104182",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10880.h5"
+    },
+    {
+      "slide_id": "10881",
+      "patient_id": "104182",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10881.h5"
+    },
+    {
+      "slide_id": "9482",
+      "patient_id": "105562",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9482.h5"
+    },
+    {
+      "slide_id": "9481",
+      "patient_id": "105562",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9481.h5"
+    },
+    {
+      "slide_id": "NLSI0000023",
+      "patient_id": "111448",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000023.h5"
+    },
+    {
+      "slide_id": "NLSI0000024",
+      "patient_id": "111448",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000024.h5"
+    },
+    {
+      "slide_id": "10653",
+      "patient_id": "120410",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10653.h5"
+    },
+    {
+      "slide_id": "NLSI0000065",
+      "patient_id": "124998",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000065.h5"
+    },
+    {
+      "slide_id": "NLSI0000066",
+      "patient_id": "124998",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000066.h5"
+    },
+    {
+      "slide_id": "9529",
+      "patient_id": "131910",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9529.h5"
+    },
+    {
+      "slide_id": "9528",
+      "patient_id": "131910",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9528.h5"
+    },
+    {
+      "slide_id": "9972",
+      "patient_id": "105352",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9972.h5"
+    },
+    {
+      "slide_id": "10028",
+      "patient_id": "105352",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10028.h5"
+    },
+    {
+      "slide_id": "10027",
+      "patient_id": "105352",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10027.h5"
+    },
+    {
+      "slide_id": "10026",
+      "patient_id": "105352",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10026.h5"
+    },
+    {
+      "slide_id": "11471",
+      "patient_id": "106246",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11471.h5"
+    },
+    {
+      "slide_id": "NLSI0000107",
+      "patient_id": "109198",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000107.h5"
+    },
+    {
+      "slide_id": "NLSI0000110",
+      "patient_id": "109198",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000110.h5"
+    },
+    {
+      "slide_id": "10627",
+      "patient_id": "109532",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10627.h5"
+    },
+    {
+      "slide_id": "10979",
+      "patient_id": "109532",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10979.h5"
+    },
+    {
+      "slide_id": "10628",
+      "patient_id": "109532",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10628.h5"
+    },
+    {
+      "slide_id": "10933",
+      "patient_id": "109532",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10933.h5"
+    },
+    {
+      "slide_id": "9754",
+      "patient_id": "110821",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9754.h5"
+    },
+    {
+      "slide_id": "11462",
+      "patient_id": "113814",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11462.h5"
+    },
+    {
+      "slide_id": "11463",
+      "patient_id": "113814",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11463.h5"
+    },
+    {
+      "slide_id": "9729",
+      "patient_id": "119743",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9729.h5"
+    },
+    {
+      "slide_id": "9727",
+      "patient_id": "119743",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9727.h5"
+    },
+    {
+      "slide_id": "10402",
+      "patient_id": "119839",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10402.h5"
+    },
+    {
+      "slide_id": "10403",
+      "patient_id": "119839",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10403.h5"
+    },
+    {
+      "slide_id": "9466",
+      "patient_id": "121823",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9466.h5"
+    },
+    {
+      "slide_id": "9465",
+      "patient_id": "121823",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9465.h5"
+    },
+    {
+      "slide_id": "11192",
+      "patient_id": "121893",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11192.h5"
+    },
+    {
+      "slide_id": "9461",
+      "patient_id": "122117",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9461.h5"
+    },
+    {
+      "slide_id": "9460",
+      "patient_id": "122117",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9460.h5"
+    },
+    {
+      "slide_id": "9459",
+      "patient_id": "122117",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9459.h5"
+    },
+    {
+      "slide_id": "11388",
+      "patient_id": "125176",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11388.h5"
+    },
+    {
+      "slide_id": "11389",
+      "patient_id": "125176",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11389.h5"
+    },
+    {
+      "slide_id": "11391",
+      "patient_id": "125176",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11391.h5"
+    },
+    {
+      "slide_id": "11414",
+      "patient_id": "125704",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11414.h5"
+    },
+    {
+      "slide_id": "11415",
+      "patient_id": "125704",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11415.h5"
+    },
+    {
+      "slide_id": "NLSI0000163",
+      "patient_id": "126114",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000163.h5"
+    },
+    {
+      "slide_id": "NLSI0000165",
+      "patient_id": "126114",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000165.h5"
+    },
+    {
+      "slide_id": "9984",
+      "patient_id": "128443",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9984.h5"
+    },
+    {
+      "slide_id": "9983",
+      "patient_id": "128443",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9983.h5"
+    },
+    {
+      "slide_id": "9982",
+      "patient_id": "128443",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9982.h5"
+    },
+    {
+      "slide_id": "11292",
+      "patient_id": "129695",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/11292.h5"
+    },
+    {
+      "slide_id": "11293",
+      "patient_id": "129695",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/11293.h5"
+    },
+    {
+      "slide_id": "10629",
+      "patient_id": "131963",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10629.h5"
+    },
+    {
+      "slide_id": "10931",
+      "patient_id": "131963",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10931.h5"
+    },
+    {
+      "slide_id": "10630",
+      "patient_id": "131963",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10630.h5"
+    },
+    {
+      "slide_id": "10930",
+      "patient_id": "131963",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10930.h5"
+    },
+    {
+      "slide_id": "9485",
+      "patient_id": "100158",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9485.h5"
+    },
+    {
+      "slide_id": "9484",
+      "patient_id": "100158",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9484.h5"
+    },
+    {
+      "slide_id": "9538",
+      "patient_id": "101449",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9538.h5"
+    },
+    {
+      "slide_id": "9537",
+      "patient_id": "101449",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9537.h5"
+    },
+    {
+      "slide_id": "10153",
+      "patient_id": "102676",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/slide_features_titan/10153.h5"
+    },
+    {
+      "slide_id": "10033",
+      "patient_id": "103344",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10033.h5"
+    },
+    {
+      "slide_id": "10032",
+      "patient_id": "103344",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10032.h5"
+    },
+    {
+      "slide_id": "10024",
+      "patient_id": "103566",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10024.h5"
+    },
+    {
+      "slide_id": "11427",
+      "patient_id": "103760",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11427.h5"
+    },
+    {
+      "slide_id": "NLSI0000083",
+      "patient_id": "104208",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000083.h5"
+    },
+    {
+      "slide_id": "11048",
+      "patient_id": "104564",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/11048.h5"
+    },
+    {
+      "slide_id": "11110",
+      "patient_id": "104564",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/11110.h5"
+    },
+    {
+      "slide_id": "10124",
+      "patient_id": "104778",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10124.h5"
+    },
+    {
+      "slide_id": "11312",
+      "patient_id": "105713",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/11312.h5"
+    },
+    {
+      "slide_id": "11313",
+      "patient_id": "105713",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/11313.h5"
+    },
+    {
+      "slide_id": "NLSI0000032",
+      "patient_id": "105719",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000032.h5"
+    },
+    {
+      "slide_id": "NLSI0000033",
+      "patient_id": "105719",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000033.h5"
+    },
+    {
+      "slide_id": "NLSI0000037",
+      "patient_id": "105719",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000037.h5"
+    },
+    {
+      "slide_id": "10626",
+      "patient_id": "105974",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10626.h5"
+    },
+    {
+      "slide_id": "10932",
+      "patient_id": "105974",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10932.h5"
+    },
+    {
+      "slide_id": "10395",
+      "patient_id": "105974",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10395.h5"
+    },
+    {
+      "slide_id": "NLSI0000226",
+      "patient_id": "106204",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000226.h5"
+    },
+    {
+      "slide_id": "NLSI0000227",
+      "patient_id": "106204",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000227.h5"
+    },
+    {
+      "slide_id": "NLSI0000228",
+      "patient_id": "106204",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000228.h5"
+    },
+    {
+      "slide_id": "10128",
+      "patient_id": "106591",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10128.h5"
+    },
+    {
+      "slide_id": "NLSI0000056",
+      "patient_id": "106926",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000056.h5"
+    },
+    {
+      "slide_id": "NLSI0000057",
+      "patient_id": "106926",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000057.h5"
+    },
+    {
+      "slide_id": "9976",
+      "patient_id": "107077",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9976.h5"
+    },
+    {
+      "slide_id": "9975",
+      "patient_id": "107077",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9975.h5"
+    },
+    {
+      "slide_id": "9974",
+      "patient_id": "107077",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9974.h5"
+    },
+    {
+      "slide_id": "9939",
+      "patient_id": "107434",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/slide_features_titan/9939.h5"
+    },
+    {
+      "slide_id": "9949",
+      "patient_id": "107434",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/slide_features_titan/9949.h5"
+    },
+    {
+      "slide_id": "NLSI0000262",
+      "patient_id": "107561",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000262.h5"
+    },
+    {
+      "slide_id": "NLSI0000263",
+      "patient_id": "107561",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000263.h5"
+    },
+    {
+      "slide_id": "NLSI0000264",
+      "patient_id": "107561",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000264.h5"
+    },
+    {
+      "slide_id": "9663",
+      "patient_id": "108012",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9663.h5"
+    },
+    {
+      "slide_id": "9662",
+      "patient_id": "108012",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9662.h5"
+    },
+    {
+      "slide_id": "9500",
+      "patient_id": "108034",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/slide_features_titan/9500.h5"
+    },
+    {
+      "slide_id": "10036",
+      "patient_id": "108135",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10036.h5"
+    },
+    {
+      "slide_id": "10035",
+      "patient_id": "108135",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10035.h5"
+    },
+    {
+      "slide_id": "10034",
+      "patient_id": "108135",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10034.h5"
+    },
+    {
+      "slide_id": "9475",
+      "patient_id": "108453",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9475.h5"
+    },
+    {
+      "slide_id": "9474",
+      "patient_id": "108453",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9474.h5"
+    },
+    {
+      "slide_id": "10021",
+      "patient_id": "109025",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10021.h5"
+    },
+    {
+      "slide_id": "9707",
+      "patient_id": "110898",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9707.h5"
+    },
+    {
+      "slide_id": "9706",
+      "patient_id": "110898",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9706.h5"
+    },
+    {
+      "slide_id": "11105",
+      "patient_id": "114936",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11105.h5"
+    },
+    {
+      "slide_id": "11106",
+      "patient_id": "114936",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11106.h5"
+    },
+    {
+      "slide_id": "9680",
+      "patient_id": "116137",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/slide_features_titan/9680.h5"
+    },
+    {
+      "slide_id": "9679",
+      "patient_id": "116137",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch7_7x/20x_256px_0px_overlap/slide_features_titan/9679.h5"
+    },
+    {
+      "slide_id": "9493",
+      "patient_id": "116747",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9493.h5"
+    },
+    {
+      "slide_id": "NLSI0000113",
+      "patient_id": "117627",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000113.h5"
+    },
+    {
+      "slide_id": "NLSI0000116",
+      "patient_id": "117627",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000116.h5"
+    },
+    {
+      "slide_id": "11342",
+      "patient_id": "118323",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11342.h5"
+    },
+    {
+      "slide_id": "11343",
+      "patient_id": "118323",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11343.h5"
+    },
+    {
+      "slide_id": "10520",
+      "patient_id": "118552",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/slide_features_titan/10520.h5"
+    },
+    {
+      "slide_id": "9458",
+      "patient_id": "118658",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9458.h5"
+    },
+    {
+      "slide_id": "NLSI0000059",
+      "patient_id": "118664",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000059.h5"
+    },
+    {
+      "slide_id": "NLSI0000060",
+      "patient_id": "118664",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000060.h5"
+    },
+    {
+      "slide_id": "NLSI0000074",
+      "patient_id": "118713",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000074.h5"
+    },
+    {
+      "slide_id": "NLSI0000075",
+      "patient_id": "118713",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000075.h5"
+    },
+    {
+      "slide_id": "9808",
+      "patient_id": "120907",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9808.h5"
+    },
+    {
+      "slide_id": "9953",
+      "patient_id": "120907",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9953.h5"
+    },
+    {
+      "slide_id": "10852",
+      "patient_id": "120969",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch6_7x/20x_256px_0px_overlap/slide_features_titan/10852.h5"
+    },
+    {
+      "slide_id": "11328",
+      "patient_id": "123944",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/11328.h5"
+    },
+    {
+      "slide_id": "NLSI0000090",
+      "patient_id": "126576",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000090.h5"
+    },
+    {
+      "slide_id": "10672",
+      "patient_id": "127242",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10672.h5"
+    },
+    {
+      "slide_id": "NLSI0000185",
+      "patient_id": "128669",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000185.h5"
+    },
+    {
+      "slide_id": "NLSI0000186",
+      "patient_id": "128669",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000186.h5"
+    },
+    {
+      "slide_id": "11030",
+      "patient_id": "128899",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11030.h5"
+    },
+    {
+      "slide_id": "11031",
+      "patient_id": "128899",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11031.h5"
+    },
+    {
+      "slide_id": "11032",
+      "patient_id": "128899",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11032.h5"
+    },
+    {
+      "slide_id": "11033",
+      "patient_id": "128899",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11033.h5"
+    },
+    {
+      "slide_id": "11034",
+      "patient_id": "128899",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11034.h5"
+    },
+    {
+      "slide_id": "NLSI0000010",
+      "patient_id": "129230",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000010.h5"
+    },
+    {
+      "slide_id": "NLSI0000012",
+      "patient_id": "129230",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000012.h5"
+    },
+    {
+      "slide_id": "10165",
+      "patient_id": "130008",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10165.h5"
+    },
+    {
+      "slide_id": "10164",
+      "patient_id": "130008",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10164.h5"
+    },
+    {
+      "slide_id": "10405",
+      "patient_id": "130162",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10405.h5"
+    },
+    {
+      "slide_id": "10406",
+      "patient_id": "130162",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10406.h5"
+    },
+    {
+      "slide_id": "NLSI0000167",
+      "patient_id": "130630",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000167.h5"
+    },
+    {
+      "slide_id": "10134",
+      "patient_id": "132386",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10134.h5"
+    },
+    {
+      "slide_id": "10133",
+      "patient_id": "132386",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10133.h5"
+    }
+  ],
+  "val": [
+    {
+      "slide_id": "10531",
+      "patient_id": "106000",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10531.h5"
+    },
+    {
+      "slide_id": "10499",
+      "patient_id": "102537",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10499.h5"
+    },
+    {
+      "slide_id": "10500",
+      "patient_id": "102537",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10500.h5"
+    },
+    {
+      "slide_id": "11252",
+      "patient_id": "108061",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11252.h5"
+    },
+    {
+      "slide_id": "10904",
+      "patient_id": "108906",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10904.h5"
+    },
+    {
+      "slide_id": "10939",
+      "patient_id": "108906",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10939.h5"
+    },
+    {
+      "slide_id": "10620",
+      "patient_id": "111833",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10620.h5"
+    },
+    {
+      "slide_id": "11215",
+      "patient_id": "113041",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11215.h5"
+    },
+    {
+      "slide_id": "11217",
+      "patient_id": "113041",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11217.h5"
+    },
+    {
+      "slide_id": "11218",
+      "patient_id": "113041",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11218.h5"
+    },
+    {
+      "slide_id": "NLSI0000154",
+      "patient_id": "117601",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000154.h5"
+    },
+    {
+      "slide_id": "NLSI0000155",
+      "patient_id": "117601",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000155.h5"
+    },
+    {
+      "slide_id": "NLSI0000156",
+      "patient_id": "117601",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000156.h5"
+    },
+    {
+      "slide_id": "10505",
+      "patient_id": "123810",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10505.h5"
+    },
+    {
+      "slide_id": "10506",
+      "patient_id": "123810",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10506.h5"
+    },
+    {
+      "slide_id": "NLSI0000266",
+      "patient_id": "126955",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000266.h5"
+    },
+    {
+      "slide_id": "NLSI0000267",
+      "patient_id": "126955",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000267.h5"
+    },
+    {
+      "slide_id": "NLSI0000174",
+      "patient_id": "112073",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000174.h5"
+    },
+    {
+      "slide_id": "9691",
+      "patient_id": "108543",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9691.h5"
+    },
+    {
+      "slide_id": "9689",
+      "patient_id": "108543",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9689.h5"
+    },
+    {
+      "slide_id": "NLSI0000157",
+      "patient_id": "117820",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000157.h5"
+    },
+    {
+      "slide_id": "10149",
+      "patient_id": "121895",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10149.h5"
+    },
+    {
+      "slide_id": "10148",
+      "patient_id": "121895",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10148.h5"
+    },
+    {
+      "slide_id": "10171",
+      "patient_id": "123515",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10171.h5"
+    },
+    {
+      "slide_id": "10865",
+      "patient_id": "127619",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10865.h5"
+    },
+    {
+      "slide_id": "11377",
+      "patient_id": "131542",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11377.h5"
+    },
+    {
+      "slide_id": "10636",
+      "patient_id": "134371",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10636.h5"
+    },
+    {
+      "slide_id": "10851",
+      "patient_id": "134371",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10851.h5"
+    },
+    {
+      "slide_id": "NLSI0000095",
+      "patient_id": "102161",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000095.h5"
+    },
+    {
+      "slide_id": "NLSI0000096",
+      "patient_id": "102161",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000096.h5"
+    },
+    {
+      "slide_id": "11185",
+      "patient_id": "106364",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11185.h5"
+    },
+    {
+      "slide_id": "11186",
+      "patient_id": "106364",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11186.h5"
+    },
+    {
+      "slide_id": "NLSI0000104",
+      "patient_id": "109345",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000104.h5"
+    },
+    {
+      "slide_id": "NLSI0000105",
+      "patient_id": "109345",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000105.h5"
+    },
+    {
+      "slide_id": "11288",
+      "patient_id": "116221",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/slide_features_titan/11288.h5"
+    },
+    {
+      "slide_id": "11290",
+      "patient_id": "116221",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/slide_features_titan/11290.h5"
+    },
+    {
+      "slide_id": "11291",
+      "patient_id": "116221",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/slide_features_titan/11291.h5"
+    },
+    {
+      "slide_id": "NLSI0000219",
+      "patient_id": "116837",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000219.h5"
+    },
+    {
+      "slide_id": "NLSI0000220",
+      "patient_id": "116837",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000220.h5"
+    },
+    {
+      "slide_id": "NLSI0000221",
+      "patient_id": "116837",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000221.h5"
+    },
+    {
+      "slide_id": "NLSI0000159",
+      "patient_id": "117373",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000159.h5"
+    },
+    {
+      "slide_id": "11118",
+      "patient_id": "118248",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11118.h5"
+    },
+    {
+      "slide_id": "11119",
+      "patient_id": "118248",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11119.h5"
+    },
+    {
+      "slide_id": "11303",
+      "patient_id": "120707",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11303.h5"
+    },
+    {
+      "slide_id": "11304",
+      "patient_id": "120707",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11304.h5"
+    },
+    {
+      "slide_id": "11306",
+      "patient_id": "120707",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11306.h5"
+    },
+    {
+      "slide_id": "NLSI0000123",
+      "patient_id": "121370",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000123.h5"
+    },
+    {
+      "slide_id": "NLSI0000124",
+      "patient_id": "121370",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000124.h5"
+    }
+  ],
+  "test": [
+    {
+      "slide_id": "9397",
+      "patient_id": "112893",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9397.h5"
+    },
+    {
+      "slide_id": "9395",
+      "patient_id": "112893",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9395.h5"
+    },
+    {
+      "slide_id": "11361",
+      "patient_id": "100381",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11361.h5"
+    },
+    {
+      "slide_id": "10856",
+      "patient_id": "103189",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10856.h5"
+    },
+    {
+      "slide_id": "10857",
+      "patient_id": "103189",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10857.h5"
+    },
+    {
+      "slide_id": "9732",
+      "patient_id": "121073",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9732.h5"
+    },
+    {
+      "slide_id": "9731",
+      "patient_id": "121073",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9731.h5"
+    },
+    {
+      "slide_id": "10859",
+      "patient_id": "123072",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10859.h5"
+    },
+    {
+      "slide_id": "11352",
+      "patient_id": "124864",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11352.h5"
+    },
+    {
+      "slide_id": "NLSI0000077",
+      "patient_id": "126977",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000077.h5"
+    },
+    {
+      "slide_id": "NLSI0000078",
+      "patient_id": "126977",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000078.h5"
+    },
+    {
+      "slide_id": "9479",
+      "patient_id": "129553",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9479.h5"
+    },
+    {
+      "slide_id": "9478",
+      "patient_id": "129553",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9478.h5"
+    },
+    {
+      "slide_id": "9477",
+      "patient_id": "129553",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/9477.h5"
+    },
+    {
+      "slide_id": "10122",
+      "patient_id": "131174",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10122.h5"
+    },
+    {
+      "slide_id": "10121",
+      "patient_id": "131174",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10121.h5"
+    },
+    {
+      "slide_id": "9741",
+      "patient_id": "116597",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9741.h5"
+    },
+    {
+      "slide_id": "9740",
+      "patient_id": "116597",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9740.h5"
+    },
+    {
+      "slide_id": "NLSI0000014",
+      "patient_id": "116798",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000014.h5"
+    },
+    {
+      "slide_id": "NLSI0000015",
+      "patient_id": "116798",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000015.h5"
+    },
+    {
+      "slide_id": "9668",
+      "patient_id": "133416",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9668.h5"
+    },
+    {
+      "slide_id": "9667",
+      "patient_id": "133416",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/9667.h5"
+    },
+    {
+      "slide_id": "10136",
+      "patient_id": "101192",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/10136.h5"
+    },
+    {
+      "slide_id": "10894",
+      "patient_id": "100703",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/10894.h5"
+    },
+    {
+      "slide_id": "9463",
+      "patient_id": "106971",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9463.h5"
+    },
+    {
+      "slide_id": "9462",
+      "patient_id": "106971",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9462.h5"
+    },
+    {
+      "slide_id": "11253",
+      "patient_id": "107682",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11253.h5"
+    },
+    {
+      "slide_id": "11254",
+      "patient_id": "107682",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11254.h5"
+    },
+    {
+      "slide_id": "10508",
+      "patient_id": "110253",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10508.h5"
+    },
+    {
+      "slide_id": "10509",
+      "patient_id": "110253",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10509.h5"
+    },
+    {
+      "slide_id": "10510",
+      "patient_id": "110253",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10510.h5"
+    },
+    {
+      "slide_id": "9390",
+      "patient_id": "119911",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/9390.h5"
+    },
+    {
+      "slide_id": "10892",
+      "patient_id": "120056",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10892.h5"
+    },
+    {
+      "slide_id": "11326",
+      "patient_id": "120289",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11326.h5"
+    },
+    {
+      "slide_id": "11327",
+      "patient_id": "120289",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11327.h5"
+    },
+    {
+      "slide_id": "11438",
+      "patient_id": "121852",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11438.h5"
+    },
+    {
+      "slide_id": "11001",
+      "patient_id": "122590",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11001.h5"
+    },
+    {
+      "slide_id": "11374",
+      "patient_id": "122786",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/11374.h5"
+    },
+    {
+      "slide_id": "11375",
+      "patient_id": "122786",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/11375.h5"
+    },
+    {
+      "slide_id": "10997",
+      "patient_id": "103507",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10997.h5"
+    },
+    {
+      "slide_id": "10998",
+      "patient_id": "103507",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10998.h5"
+    },
+    {
+      "slide_id": "10999",
+      "patient_id": "103507",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/10999.h5"
+    },
+    {
+      "slide_id": "NLSI0000178",
+      "patient_id": "104960",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000178.h5"
+    },
+    {
+      "slide_id": "NLSI0000179",
+      "patient_id": "104960",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000179.h5"
+    },
+    {
+      "slide_id": "NLSI0000180",
+      "patient_id": "104960",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch9_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000180.h5"
+    },
+    {
+      "slide_id": "11458",
+      "patient_id": "106498",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch8_7x/20x_256px_0px_overlap/slide_features_titan/11458.h5"
+    },
+    {
+      "slide_id": "9550",
+      "patient_id": "106507",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9550.h5"
+    },
+    {
+      "slide_id": "9549",
+      "patient_id": "106507",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/9549.h5"
+    },
+    {
+      "slide_id": "10639",
+      "patient_id": "108046",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/slide_features_titan/10639.h5"
+    },
+    {
+      "slide_id": "10640",
+      "patient_id": "108046",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/slide_features_titan/10640.h5"
+    },
+    {
+      "slide_id": "11263",
+      "patient_id": "110217",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11263.h5"
+    },
+    {
+      "slide_id": "11264",
+      "patient_id": "110217",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11264.h5"
+    },
+    {
+      "slide_id": "11265",
+      "patient_id": "110217",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch4_7x/20x_256px_0px_overlap/slide_features_titan/11265.h5"
+    },
+    {
+      "slide_id": "11124",
+      "patient_id": "123067",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11124.h5"
+    },
+    {
+      "slide_id": "11125",
+      "patient_id": "123067",
+      "label": 1,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/11125.h5"
+    },
+    {
+      "slide_id": "NLSI0000063",
+      "patient_id": "127923",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch5_7x/20x_256px_0px_overlap/slide_features_titan/NLSI0000063.h5"
+    },
+    {
+      "slide_id": "10526",
+      "patient_id": "131611",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10526.h5"
+    },
+    {
+      "slide_id": "10497",
+      "patient_id": "131611",
+      "label": 0,
+      "feature_path": "/restricted/projectnb/luadfrp/trident_output/nlst_batch3_7x/20x_256px_0px_overlap/slide_features_titan/10497.h5"
+    }
+  ]
+}
